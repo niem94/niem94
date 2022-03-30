@@ -8,5 +8,4 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 - 🤔 I’m looking for help to find good resources for learning Kubernetes, especially the basics and best-practices when developing workloads with Helm charts. I am also looking for resources on developing a modern data-lake and data standardization, when working with large amounts of data.
 - 💬 Ask me about anything. I love to meet new people, and discuss technologies, interests and knowledge.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <nikolaiemildamm@icloud.com>
-- 😄 Pronouns: devantler
 - ⚡ Fun fact: There is a danish saying "There are owls in the mud" which means something suspicious is going on.
