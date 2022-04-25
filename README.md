@@ -12,5 +12,6 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <nikolaiemildamm@icloud.com>
 - ⚡ Fun fact: There is a danish saying "There are owls in the mud" which means something suspicious is going on.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devantler)
 ![](https://github-readme-stats.vercel.app/api?username=devantler)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devantler)
+
