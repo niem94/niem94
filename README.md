@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=devantler)
+
 My name is Nikolai Emil Damm. I am currently studying my MSc at University of Southern Denmark, and working as a student developer at FiftyTwo.
 
 - 🔭 I’m currently working on a distributed Docker Swarm cluster running on 3 RPis for learning purposes and for hosting personal projects. I plan to migrate the cluster to Nomad in the near future.
@@ -9,3 +11,6 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 - 💬 Ask me about anything. I love to meet new people, and discuss technologies, interests and knowledge.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <nikolaiemildamm@icloud.com>
 - ⚡ Fun fact: There is a danish saying "There are owls in the mud" which means something suspicious is going on.
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devantler)
+![](https://github-readme-stats.vercel.app/api?username=devantler)
