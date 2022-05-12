@@ -13,7 +13,7 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 - ⚡ Fun fact: There is a danish saying "There are owls in the mud" which means something suspicious is going on.
 
 <a href="https://github.com/devantler/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api/top-langs/?username=devantler&exclude_repo=software-engineering-f22" />
+  <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api/top-langs/?username=devantler&hide=javascript,html,c" />
 </a>
 <a href="https://github.com/devantler/github-readme-stats">
   <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api?username=devantler" />
