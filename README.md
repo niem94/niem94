@@ -16,7 +16,7 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
   <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=radical&exclude_repo=software-engineering-f22" />
 </a>
 <a href="https://github.com/devantler/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api?username=devantler&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api?username=devantler&show_icons=true&theme=dark" />
 </a>
 
 
