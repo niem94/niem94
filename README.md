@@ -10,12 +10,16 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <hassium-delta.07@icloud.com>
 - ⚡ Fun fact: There is a danish saying "There are owls in the mud" which means something suspicious is going on.
 
-<a href="https://github.com/devantler/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=dark&exclude_repo=software-engineering-f22" />
-</a>
-<br/>
-<a href="https://github.com/devantler/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api?username=devantler&show_icons=true&theme=dark" />
-</a>
+<p align="center">
+  <a align="center" href="https://github.com/devantler/github-readme-stats">
+    <img src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api?username=devantler&show_icons=true&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/devantler/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=dark&exclude_repo=software-engineering-f22" />
+  </a>
+</p>
+
 
 
