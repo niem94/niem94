@@ -4,7 +4,7 @@
 
 My name is Nikolai Emil Damm. I am currently studying my MSc at University of Southern Denmark, and working as a student developer at FiftyTwo.
 
-- 🔭 I’m currently working on a distributed HashiCorp cluster running on 3 RPis for learning purposes and for hosting personal projects.
+- 🔭 I’m currently working on a setting up a GitOps Workflow for my HashiCorp cluster running on 3 RPis. I want to optimize the pipeline, so it is faster and less cumbersome to deploy from GitHub to the cluster.
 - 🌱 I’m currently learning about programming of IoT devices, hardware, timed automata, and creating domain specific languages with xText.
 - 💬 Ask me about anything. I love to meet new people, and discuss technologies, interests and knowledge.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <hassium-delta.07@icloud.com>
@@ -13,6 +13,7 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 <a href="https://github.com/devantler/github-readme-stats">
   <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=dark&exclude_repo=software-engineering-f22" />
 </a>
+<br/>
 <a href="https://github.com/devantler/github-readme-stats">
   <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api?username=devantler&show_icons=true&theme=dark" />
 </a>
