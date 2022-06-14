@@ -12,12 +12,12 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 
 <p align="center">
   <a align="center" href="https://github.com/devantler/github-readme-stats">
-    <img src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api?username=devantler&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=dark" />
   </a>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/devantler/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-qawwvefdy-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=dark&exclude_repo=software-engineering-f22" />
+    <img align="center" src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=dark&exclude_repo=software-engineering-f22" />
   </a>
 </p>
 
