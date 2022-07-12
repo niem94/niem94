@@ -4,7 +4,7 @@
 
 <p align="center">
   <a align="center" href="https://github.com/devantler/github-readme-stats">
-    <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=devantler" />
+    <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=devantler&theme=dark" />
   </a>
 </p>
 
