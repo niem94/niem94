@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=devantler)
 
+[![devantler's wakatime stats](https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=devantler)](https://github.com/devantler/github-readme-stats)
+
 My name is Nikolai Emil Damm. I am currently studying my MSc at University of Southern Denmark, and working as a student developer at Umbraco.
 
 <!-- 🌱 I’m currently learning about . -->
