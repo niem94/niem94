@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=devantler)
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7F7F7&vCenter=true&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+### Hi there 👋🏻
 
 <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=merko" />
 
