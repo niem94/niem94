@@ -1,12 +1,12 @@
+### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=devantler)
+
 <p align="center">
   <a align="center" href="https://github.com/devantler/github-readme-stats">
     <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=dark" />
   </a>
 </p>
-
-### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=devantler)
 
 My name is Nikolai Emil Damm. I am currently studying my MSc at University of Southern Denmark, and working as a student developer at Umbraco.
 
@@ -19,17 +19,6 @@ My name is Nikolai Emil Damm. I am currently studying my MSc at University of So
 |               |               |
 | ------------- | ------------- |
 | <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=66c8bc1b-a3bd-4b90-8717-77aec70735d0&theme=dark" />  |  <img align="center" src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=dark&exclude_repo=software-engineering-f22" />  |
-
-<p align="center">
-  <a align="center" href="https://github.com/devantler/github-readme-stats">
-    <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=66c8bc1b-a3bd-4b90-8717-77aec70735d0&theme=dark" />
-  </a>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/devantler/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/top-langs/?username=devantler&show_icons=true&theme=dark&exclude_repo=software-engineering-f22" />
-  </a>
-</p>
 
 
 
