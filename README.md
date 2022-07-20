@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=devantler)
 ### Hi there 👋🏻
 
-<img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=merko" />
+<img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight" />
 
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
 
