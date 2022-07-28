@@ -1,4 +1,4 @@
-<center>
+<div style="text-align:center;">
 
 ![](https://komarev.com/ghpvc/?username=devantler)
 
@@ -26,7 +26,7 @@ public class Me {
 </td>
 </tr>
 </table>
-</center>
+</div>
 
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
 
