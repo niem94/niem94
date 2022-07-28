@@ -10,8 +10,7 @@
 
 </td>
 </tr>
-</table>
-
+<tr>
 ```csharp
 public class Me {
   public string Name { get; init; } = "Nikolai Emil Damm";
@@ -20,7 +19,11 @@ public class Me {
   public string Study { get; set; } = "Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
 }
-```
+``` 
+</tr>
+</table>
+
+
 
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
 
