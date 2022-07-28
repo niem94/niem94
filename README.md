@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td> <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true" style="height:271px; min-height: 336px; min-width:336px; width: 263px;" /> </td>
+<td> <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true" /> </td>
 <td >
 
 ```csharp
