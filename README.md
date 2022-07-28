@@ -9,7 +9,7 @@
     </td>
   </tr>
   <tr>
-<td colspan="2">
+    <td colspan="2">
 
 ```csharp
 public class Me {
@@ -18,10 +18,10 @@ public class Me {
   public string Job { get; set;} = "Umbraco HQ";
   public string Study { get; set; } = "Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
-}```
-
-</td>
-</tr>
+}
+```
+    </td>
+  </tr>
 </table>
 
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
