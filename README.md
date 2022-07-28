@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=devantler)
 
-<h3>Hi there 👋🏻</h3>
+<h3 style="text-align: center;">Hi there 👋🏻</h3>
 
 <table>
 <tr>
