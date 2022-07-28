@@ -11,7 +11,6 @@
 </td>
 </tr>
 <tr>
-<td>
   
 ```csharp
 public class Me {
@@ -23,7 +22,6 @@ public class Me {
 }
 ``` 
 
-</td>
 </tr>
 </table>
 
