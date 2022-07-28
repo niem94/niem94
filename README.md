@@ -11,7 +11,7 @@ public class Me {
   public string Name { get; set; } = "Nikolai Emil Damm";
   public string Job { get; set;} = "Umbraco HQ";
   public string Study { get; set; } = "Msc in Software Engineering";
-  public FavoriteLang { get; set; } = FavoriteLang.CSharp
+  public FavoriteLang FavoriteLang { get; set; } = FavoriteLang.CSharp
 }
 ```
 
