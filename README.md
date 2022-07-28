@@ -10,7 +10,6 @@
   </tr>
   <tr>
     <td colspan="2">
-
 ```csharp
 public class Me {
   public string Name { get; init; } = "Nikolai Emil Damm";
