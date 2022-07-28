@@ -1,7 +1,7 @@
-<div style="margin:auto; width:50%; text-align: center;">
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=devantler)
-  <p align="center">dsdsd</p>
+  
 <h3 style="text-align: center;">Hi there 👋🏻</h3>
 
 <table>
