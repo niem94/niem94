@@ -1,4 +1,4 @@
-<div style="margin:auto; width:50%;">
+<div style="margin:auto; width:50%; text-align: center;">
 
 ![](https://komarev.com/ghpvc/?username=devantler)
 
