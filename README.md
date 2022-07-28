@@ -2,15 +2,14 @@
 ### 
 
 <table>
-  <tr>
-    <td><h3>Hi there 👋🏻</h3></td>
-    <td>
-      <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-
+<tr>
+<td><h3>Hi there 👋🏻</h3></td>
+<td>
+<img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ```csharp
 public class Me {
@@ -22,9 +21,8 @@ public class Me {
 }
 ```
 
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
