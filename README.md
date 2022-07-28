@@ -11,15 +11,15 @@
   <tr>
     <td colspan="2">
 
-      ```csharp
-      public class Me {
-        public string Name { get; init; } = "Nikolai Emil Damm";
-        public string Alias { get; set; } = "devantler";
-        public string Job { get; set;} = "Umbraco HQ";
-        public string Study { get; set; } = "Software Engineering";
-        public FavLang FavLang { get; set; } = FavLang.CSharp;
-      }
-      ``` 
+```csharp
+public class Me {
+  public string Name { get; init; } = "Nikolai Emil Damm";
+  public string Alias { get; set; } = "devantler";
+  public string Job { get; set;} = "Umbraco HQ";
+  public string Study { get; set; } = "Software Engineering";
+  public FavLang FavLang { get; set; } = FavLang.CSharp;
+}
+``` 
 
     </td>
   </tr>
