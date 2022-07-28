@@ -1,7 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=devantler)
 ### Hi there 👋🏻
 
-<img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true" />
+| <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true" /> | ```csharp
+public class Me {
+  public string Name { get; set; } = "Nikolai Emil Damm";
+  public string Job { get; set;} = "Umbraco HQ";
+  public string Study { get; set; } = "Msc in Software Engineering";
+  public FavoriteLang { get; set; } = FavoriteLang.CSharp
+}
+``` |
+| -- | -- |
 
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
 
@@ -13,8 +21,3 @@ My name is Nikolai Emil Damm. I am currently studying for my MSc at the Universi
 
 | <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=66c8bc1b-a3bd-4b90-8717-77aec70735d0&theme=dark" />  |  <img align="center" src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/top-langs/?username=devantler&theme=dark&langs_count=8&exclude_repo=software-engineering-f22" />  |
 | ------------- | ------------- |
-
-
-
-
-
