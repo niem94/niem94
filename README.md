@@ -18,8 +18,7 @@ public class Me {
   public string Job { get; set;} = "Umbraco HQ";
   public string Study { get; set; } = "Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
-}
-```
+}```
 
 </td>
 </tr>
