@@ -10,7 +10,7 @@
 public class Me {
   public string Name { get; set; } = "Nikolai Emil Damm";
   public string Job { get; set;} = "Umbraco HQ";
-  public string Study { get; set; } = "Msc in Software Engineering";
+  public string Study { get; set; } = "MSc in Software Engineering";
   public FavoriteLang FavoriteLang { get; set; } = FavoriteLang.CSharp
 }
 ```
