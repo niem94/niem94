@@ -8,10 +8,11 @@
 
 ```csharp
 public class Me {
-  public string Name { get; set; } = "Nikolai Emil Damm";
+  public string Name { get; init; } = "Nikolai Emil Damm";
+  public string Alias { get; set; } = "devantler";
   public string Job { get; set;} = "Umbraco HQ";
-  public string Study { get; set; } = "MSc in Software Engineering";
-  public FavoriteLang FavoriteLang { get; set; } = FavoriteLang.CSharp
+  public string Study { get; set; } = "Software Engineering";
+  public FavLang FavLang { get; set; } = FavLang.CSharp;
 }
 ```
 
