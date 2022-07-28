@@ -11,6 +11,7 @@
   <tr>
     <td colspan="2">
 
+
 ```csharp
 public class Me {
   public string Name { get; init; } = "Nikolai Emil Damm";
@@ -20,6 +21,8 @@ public class Me {
   public FavLang FavLang { get; set; } = FavLang.CSharp;
 }
 ```
+
+
     </td>
   </tr>
 </table>
