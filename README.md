@@ -1,3 +1,14 @@
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid orange;
+    padding: 10px;
+    text-align: left;
+  }
+</style>
+
 ![](https://komarev.com/ghpvc/?username=devantler)
   
 # Hi there 👋🏻
