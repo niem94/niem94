@@ -1,9 +1,8 @@
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=devantler)
   
 <h3 style="text-align: center;">Hi there 👋🏻</h3>
 
+<div align="center">
 <table>
 <tr>
 <td rowspan="2">
