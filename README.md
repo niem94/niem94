@@ -3,7 +3,7 @@
 # Hi there 👋🏻
 
 <div align="center">
-<table>
+<table bordercolor=orange>
 <tr>
 <td rowspan="2">
 
