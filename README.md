@@ -40,7 +40,7 @@ My name is Nikolai Emil Damm. I am currently studying for my MSc at the Universi
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <mojo_caring0k@icloud.com>
 - ⚡ Fun fact: There is a danish saying, "There are owls in the mud", which means something suspicious is going on.
 
-### Live Stats
+## Live Stats
 
 <div align="center">
 
