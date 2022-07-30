@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=devantler)
   
-<h3 style="text-align: center;">Hi there 👋🏻</h3>
+## Hi there 👋🏻
 
 <div align="center">
 <table>
@@ -32,8 +32,6 @@ public class Me {
 </table>
 </div>
 
-### Stats
-
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
 
 - 🌱 I'm currently researching dataspaces as part of my master thesis - _Exploration of state-of-the-art technology, architectures and tools to create future-proof dataspaces_.
@@ -41,6 +39,8 @@ My name is Nikolai Emil Damm. I am currently studying for my MSc at the Universi
 - 💬 Ask me about anything. I love to meet new people and discuss technologies, interests and knowledge.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <mojo_caring0k@icloud.com>
 - ⚡ Fun fact: There is a danish saying, "There are owls in the mud", which means something suspicious is going on.
+
+### Live Stats
 
 <div align="center">
 
