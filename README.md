@@ -32,6 +32,8 @@ public class Me {
 </table>
 </div>
 
+### Stats
+
 My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
 
 - 🌱 I'm currently researching dataspaces as part of my master thesis - _Exploration of state-of-the-art technology, architectures and tools to create future-proof dataspaces_.
