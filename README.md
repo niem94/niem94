@@ -26,7 +26,7 @@ public class Me {
 </tr>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
 </td>
 </tr>
 </table>
