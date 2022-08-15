@@ -44,7 +44,7 @@ My name is Nikolai Emil Damm. I am currently studying for my MSc at the Universi
 
 <div align="center">
 
-| <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=66c8bc1b-a3bd-4b90-8717-77aec70735d0&theme=dark" />  |  <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=dark&langs_count=8&role=OWNER,COLLABORATOR&exclude_repo=software-engineering-f22" />  |
+| <img src="https://github-readme-stats-kezco3t4b-devantler.vercel.app/api/wakatime?username=66c8bc1b-a3bd-4b90-8717-77aec70735d0&theme=dark" />  |  <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=dark&langs_count=8&role=OWNER,COLLABORATOR" />  |
 | ------------- | ------------- |
   
 </div>
