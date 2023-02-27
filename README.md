@@ -38,7 +38,6 @@ My name is Nikolai Emil Damm. I am currently studying for my MSc at the Universi
 - 🔭 I'm currently working on [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/?gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfhg4OKBTmKmZgY4JgfQYExt9jlXrTe8UGy1vAzRZozydhN0m_1mkqcaAp95EALw_wcB), the proprietary headless CMS solution by Umbraco.
 - 💬 Ask me about anything. I love to meet new people and discuss technologies, interests and knowledge.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <mojo_caring0k@icloud.com>
-- ⚡ Fun fact: There is a danish saying, "There are owls in the mud", which means something suspicious is going on.
 
 ## Live Stats
 
