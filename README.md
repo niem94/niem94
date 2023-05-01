@@ -24,15 +24,10 @@ public class Me {
 
 </td>
 </tr>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
-</td>
-</tr>
 </table>
 </div>
 
-My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco. 
+My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco.
 
 - 🌱 I'm currently researching dataspaces as part of my [master thesis](https://github.com/devantler/thesis-project) - _Exploration of state-of-the-art technology, architectures and tools to create future-proof dataspaces_.
 - 🔭 I'm currently working on [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/?gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfhg4OKBTmKmZgY4JgfQYExt9jlXrTe8UGy1vAzRZozydhN0m_1mkqcaAp95EALw_wcB), the proprietary headless CMS solution by Umbraco.
@@ -42,7 +37,9 @@ My name is Nikolai Emil Damm. I am currently studying for my MSc at the Universi
 ## Live Stats
 
 <div align="center">
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devantler&theme=dark" />  |  <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=dark&langs_count=8&role=OWNER,COLLABORATOR&&exclude_repo=software-engineering-f22-shared" />  |
-| ------------- | ------------- |
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=dark&langs_count=8&layout=compact&role=OWNER,COLLABORATOR&&exclude_repo=software-engineering-f22-shared" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
 </div>
