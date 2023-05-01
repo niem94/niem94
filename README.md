@@ -13,7 +13,7 @@
 <td>
 
 ```csharp
-public class Me {
+public class Profile {
   public string Name { get; init; } = "Nikolai Emil Damm";
   public string Alias { get; set; } = "devantler";
   public string Job { get; set;} = "Umbraco HQ";
