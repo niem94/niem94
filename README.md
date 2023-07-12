@@ -16,8 +16,8 @@
 public class Profile {
   public string Name { get; init; } = "Nikolai Emil Damm";
   public string Alias { get; set; } = "devantler";
-  public string Job { get; set;} = "Umbraco HQ";
-  public string Study { get; set; } = "Software Engineering";
+  public string Job { get; set;} = "Energinet";
+  public string Study { get; set; } = "MSc in Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
 }
 ```
@@ -27,12 +27,11 @@ public class Profile {
 </table>
 </div>
 
-My name is Nikolai Emil Damm. I am currently studying for my MSc at the University of Southern Denmark and working as a student developer at Umbraco.
+My name is Nikolai Emil Damm. I am currently working as a software engineer at in Digitalization at Energinet.
 
-- 🌱 I'm currently researching dataspaces as part of my [master thesis](https://github.com/devantler/thesis-project) - _Exploration of state-of-the-art technology, architectures and tools to create future-proof dataspaces_.
-- 🔭 I'm currently working on [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/?gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfhg4OKBTmKmZgY4JgfQYExt9jlXrTe8UGy1vAzRZozydhN0m_1mkqcaAp95EALw_wcB), the proprietary headless CMS solution by Umbraco.
+- 🌱 I'm currently exploring k8s and migrating my homelab to dev, staging and prod cluster environments with GitOps (FluxCD). The aim is to have a setup that is replicable, highly available, and promotable, such that changes deployed to a dev environment can be promoted to production. The end result should rely on the smart use of CI/CD with GitHub Actions.
+- 🔭 I'm currently working in Digitalisation at Energinet.
 - 💬 Ask me about anything. I love to meet new people and discuss technologies, interests and knowledge.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikolai-emil-damm-14a786150/) or send me an email on <mojo_caring0k@icloud.com>
 
 ## Live Stats
 
