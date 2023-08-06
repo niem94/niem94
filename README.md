@@ -7,7 +7,7 @@
 <tr>
 <td rowspan="2">
 
-![290950704_10228310462612570_7587562661259671675_n](https://user-images.githubusercontent.com/26203420/181877114-27092ad5-15cd-4d67-a905-9178f1017543.jpg)
+![IMG_0283](https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1)
 
 </td>
 <td>
