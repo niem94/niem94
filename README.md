@@ -1,33 +1,31 @@
 ![](https://komarev.com/ghpvc/?username=devantler)
-  
+
 # Hi there 👨🏻‍💻🤘🏻
 
-<div align="center">
+My name is Nikolai Emil Damm. My GitHub profile details what I am currently working on as well as my interests.
+
 <table>
-<tr>
-<td rowspan="4">
-
-![IMG_0283](https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1)
-
-</td>
-<td>
+  <tr>
+    <td>
+      <img src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1"></td>
+    <td>
 
 ```csharp
 public class Profile {
   public string Name { get; init; } = "Nikolai Emil Damm";
   public string Alias { get; set; } = "devantler";
   public string Job { get; set;} = "Digitalisation at Energinet";
-  public string Study { get; set; } = "MSc in Software Engineering";
+  public string Education { get; set; } = "MSc in Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
+  public string[] Skills { get; set; } = { "C#/.NET", "K8s", "Docker" };
+  public string[] Interests { get; set; } = { "Running", "Gaming", "Technology" };
 }
 ```
 
-</td>
-</tr>
+  </tr>
 </table>
-</div>
 
-My name is Nikolai Emil Damm. I am currently working as a software engineer at in Digitalization at Energinet.
+
 
 - 🌱 I'm currently exploring k8s and migrating my homelab to dev, staging and prod cluster environments with GitOps (FluxCD). The aim is to have a setup that is replicable, highly available, and promotable, such that changes deployed to a dev environment can be promoted to production. The end result should rely on the smart use of CI/CD with GitHub Actions.
 - 🔭 I'm currently working in Digitalisation at Energinet.
