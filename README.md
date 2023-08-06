@@ -5,7 +5,7 @@
 <div align="center">
 <table>
 <tr>
-<td rowspan="2">
+<td rowspan="4">
 
 ![IMG_0283](https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1)
 
