@@ -13,7 +13,7 @@ public class Profile {
   public string Job { get; set;} = "Digital at Energinet";
   public string Education { get; set; } = "MSc in Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
-  public string[] Skills { get; set; } = { "C#/.NET", "K8s", "Docker" };
+  public string[] Skills { get; set; } = { "C#/.NET", "CNCF", "K8s", "Docker" };
   public string[] Interests { get; set; } = { "Running", "Gaming", "Technology" };
 }
 ```
