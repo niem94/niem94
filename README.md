@@ -2,6 +2,16 @@
 
 # Hi there 👨🏻‍💻🤘🏻
 
+<!-- readme-tree start -->
+```
+.
+└── .github
+    └── workflows
+
+2 directories
+```
+<!-- readme-tree end -->
+
 My name is Nikolai Emil Damm. My GitHub profile details what I am currently working on as well as my interests.
 
 <img src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1"></td>
@@ -31,12 +41,4 @@ public class Profile {
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
   </a>
-<!-- readme-tree start -->
-```
-.
-└── .github
-    └── workflows
-
-2 directories
-```
-<!-- readme-tree end -->
+</div>
