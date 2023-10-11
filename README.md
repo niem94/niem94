@@ -2,15 +2,18 @@
 
 # Hi there 👨🏻‍💻🤘🏻
 
-<!-- readme-tree start -->
-```
-.
-└── .github
-    └── workflows
-
-2 directories
-```
-<!-- readme-tree end -->
+ <details open> 
+  <summary>Show/Hide</summary>
+    <!-- readme-tree start -->
+    ```
+    .
+    └── .github
+        └── workflows
+    
+    2 directories
+    ```
+    <!-- readme-tree end -->
+ </details>
 
 My name is Nikolai Emil Damm. My GitHub profile details what I am currently working on as well as my interests.
 
