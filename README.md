@@ -2,7 +2,7 @@
 
 # Hi there 👨🏻‍💻🤘🏻
 
- <details open> 
+<details open> 
   <summary>Show/Hide</summary>
     <!-- readme-tree start -->
     ```
@@ -13,7 +13,7 @@
     2 directories
     ```
     <!-- readme-tree end -->
- </details>
+</details>
 
 My name is Nikolai Emil Damm. My GitHub profile details what I am currently working on as well as my interests.
 
