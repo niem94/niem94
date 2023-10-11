@@ -30,25 +30,5 @@ public class Profile {
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
-<!-- readme-tree start -->
-```
-.
-├── .github
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   ├── dependabot.yaml
-│   ├── release-drafter.yml
-│   ├── renovate.json
-│   └── workflows
-│       ├── auto-merge.yaml
-│       ├── fork-sync.yaml
-│       ├── github-readme-tree.yaml
-│       ├── release-drafter.yaml
-│       ├── require-labels.yaml
-│       ├── sync-labels.yaml
-│       └── todos-to-issues.yaml
-├── README.md
-└── tree.bak
-
-2 directories, 13 files
-```
-<!-- readme-tree end -->
+  </a>
+</div>
