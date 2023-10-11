@@ -2,7 +2,7 @@
 
 # Hi there 👨🏻‍💻🤘🏻
 
-<details open> 
+<details> 
   <summary>Show/Hide</summary>
 
   <!-- readme-tree start -->
