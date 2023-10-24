@@ -25,10 +25,10 @@ My name is Nikolai Emil Damm. My GitHub profile details what I am currently work
 public class Profile {
   public string Name { get; init; } = "Nikolai Emil Damm";
   public string Alias { get; set; } = "devantler";
-  public string Job { get; set;} = "Digital at Energinet";
+  public string Job { get; set;} = "Software Developer in the Digital Incubator at Energinet";
   public string Education { get; set; } = "MSc in Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
-  public string[] Skills { get; set; } = { "C#/.NET", "CNCF", "K8s", "Docker" };
+  public string[] Skills { get; set; } = { "C#/.NET", "K8s", "Docker", "CNCF" };
   public string[] Interests { get; set; } = { "Running", "Gaming", "Technology" };
 }
 ```
