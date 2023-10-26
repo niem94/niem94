@@ -17,7 +17,7 @@
 
 </details>
 
-My name is Nikolai Emil Damm. My GitHub profile details what I am currently working on as well as my interests.
+My name is Nikolai Emil Damm. My GitHub profile details my interests, job and personal projects.
 
 <img src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1"></td>
 
@@ -33,8 +33,8 @@ public class Profile {
 }
 ```
 
-- 🌱 I'm currently exploring k8s and migrating my homelab to dev, staging and prod cluster environments with GitOps (FluxCD). The aim is to have a setup that is replicable, highly available, and promotable, such that changes deployed to a dev environment can be promoted to production. The end result should rely on the smart use of CI/CD with GitHub Actions.
-- 🔭 I'm currently working in Digital at Energinet.
+- 🌱 I'm building up my Homelab with personal projects and infrastructure that enable me to quickly deploy and build software.
+- 🔭 I'm currently working in [Stationsdata at Energinet](https://github.com/energinet-digitalisering).
 - 💬 Ask me about anything. I love to meet new people and discuss technologies, interests and knowledge.
 
 ## Live Stats
