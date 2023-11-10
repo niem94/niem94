@@ -29,7 +29,8 @@ public class Profile {
   public string Education { get; set; } = "MSc in Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
   public string[] Skills { get; set; } = { "C#/.NET", "K8s", "Docker", "CNCF" };
-  public string[] Interests { get; set; } = { "Running", "Gaming", "Technology" };
+  public string[] Interests { get; set; } = { "GitOps", "Meshing", "Observability", "Modern approaches to bridge OT and IT" };
+  public string[] PersonalInterests { get; set; } = { "Running", "Gaming", "Technology" };
 }
 ```
 
