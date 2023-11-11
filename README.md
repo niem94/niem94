@@ -5,15 +5,15 @@
 <details> 
   <summary>Show/Hide</summary>
 
-  <!-- readme-tree start -->
-  ```
-  .
-  └── .github
-      └── workflows
-  
-  2 directories
-  ```
-  <!-- readme-tree end -->
+<!-- readme-tree start -->
+```
+.
+└── .github
+    └── workflows
+
+2 directories
+```
+<!-- readme-tree end -->
 
 </details>
 
