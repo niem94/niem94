@@ -28,7 +28,7 @@ public class Profile {
   public string Job { get; set;} = "Software Developer in the Digital Incubator at Energinet";
   public string Education { get; set; } = "MSc in Software Engineering";
   public FavLang FavLang { get; set; } = FavLang.CSharp;
-  public string[] Skills { get; set; } = { "C#/.NET", "K8s", "Docker", "CNCF" };
+  public string[] Skills { get; set; } = { "C#/.NET", "Go", "K8s", "Docker", "CNCF", "And much much more" };
   public string[] Interests { get; set; } = { "GitOps", "Meshing", "Observability", "Modern approaches to bridge OT and IT" };
   public string[] PersonalInterests { get; set; } = { "Running", "Gaming", "Technology" };
 }
