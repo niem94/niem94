@@ -17,8 +17,6 @@
 
 </details>
 
-My name is Nikolai Emil Damm. My GitHub profile details my interests, job and personal projects.
-
 <img src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1"></td>
 
 ```csharp
@@ -33,10 +31,6 @@ public class Profile {
   public string[] PersonalInterests { get; set; } = { "Running", "Gaming", "Technology" };
 }
 ```
-
-- 🌱 I'm building up my Homelab with personal projects and infrastructure that enable me to quickly deploy and build software.
-- 🔭 I'm currently working in [Stationsdata at Energinet](https://github.com/energinet-digitalisering).
-- 💬 Ask me about anything. I love to meet new people and discuss technologies, interests and knowledge.
 
 ## Live Stats
 
