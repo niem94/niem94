@@ -3,7 +3,7 @@
 # Hi there 👨🏻‍💻🤘🏻
 
 <details> 
-  <summary>Show/Hide</summary>
+  <summary>Show/Hide folder structure</summary>
 
 <!-- readme-tree start -->
 ```
