@@ -17,7 +17,7 @@
 
 </details>
 
-<img src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1" width="48"></td>
+<img src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1" width="600"></td>
 
 ```csharp
 public class Profile {
