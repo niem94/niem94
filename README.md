@@ -41,9 +41,9 @@ public class Profile {
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=dark&langs_count=8&layout=compact&role=OWNER,COLLABORATOR&&exclude_repo=software-engineering-f22-shared" />
+    <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=aura_dark&langs_count=8&layout=compact&role=OWNER,COLLABORATOR&&exclude_repo=software-engineering-f22-shared" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
+    <img align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
   </a>
 </div>
