@@ -55,7 +55,7 @@ public class Profile {
 
 ## My Open Source Projects 🚀
 
-- [KSail](https://github.com/devantler/ksail) - A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.
+- [🛥️🐳 KSail](https://github.com/devantler/ksail) - A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.
 
 ## How to Reach Me 📫
 
