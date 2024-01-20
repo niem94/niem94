@@ -42,6 +42,7 @@ public class Profile {
 ### Software Developer in the Digital Incubator at Energinet
 
 **Duration**: August 2023 - Present
+
 **Key Responsibilities**:
 
 - Developing and maintaining K8s infrastructure.
