@@ -48,7 +48,7 @@ public class Profile {
 - Developing and maintaining K8s infrastructure.
 - Developing and maintaining GitOps tooling.
 - Developing and maintaining CI/CD pipelines.
-- Developing and maintaining IT to OT integrations.
+- Developing and maintaining IT and OT integrations.
 - Supporting the organization in adopting modern software development practices like GitOps, DevOps, and SRE.
 
 <!-- **Achievements**: -->
