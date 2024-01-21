@@ -17,7 +17,7 @@
 
 </details>
 <p align="center">
-  <img alt="profile-image" src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1" width="600">
+  <img alt="profile-image" src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1" width="500">
 </p>
 
 ## About Me 📝
