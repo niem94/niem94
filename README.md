@@ -59,7 +59,7 @@ public class Profile {
 
 ## How to Reach Me 📫
 
-Feel free to reach out to me at [devantler@icloud.com](devantler@icloud.com).
+Feel free to reach out to me at [ned@devantler.com](ned@devantler.com).
 
 ## Live Stats 📊
 
