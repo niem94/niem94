@@ -49,14 +49,14 @@ public class Profile {
 - Developing and maintaining GitOps tooling.
 - Developing and maintaining CI/CD pipelines.
 - Developing and maintaining IT and OT integrations.
-- Supporting the organization in adopting modern software development practices like GitOps, DevOps, and SRE.
+- Supporting the organization in adopting modern software development practices like GitOps, DevOps, and cloud-native.
 
 <!-- **Achievements**: -->
 
 ## My Open Source Projects 🚀
 
 - [🛥️🐳 KSail](https://github.com/devantler/ksail) - A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.
-- [📦 OCI Artifacts](https://github.com/devantler/oci-artifacts) - Ready-to-deploy Kustomize and Flux HelmRelease components for popular services distributed over OCI.
+- [📦 OCI Artifacts](https://github.com/devantler/oci-artifacts) - Popular Kustomize and Flux HelmRelease components that are distributed through OCI.
 - [📦 .NET Commons](https://github.com/devantler/dotnet-commons) - Various .NET libraries built to simplify common tasks like Code Generation.
 
 ## How to Reach Me 📫
