@@ -56,6 +56,8 @@ public class Profile {
 ## My Open Source Projects 🚀
 
 - [🛥️🐳 KSail](https://github.com/devantler/ksail) - A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.
+- [📦 OCI Artifacts](https://github.com/devantler/oci-artifacts) - Ready-to-deploy Kustomize and Flux HelmRelease components for popular services distributed over OCI.
+- [📦 .NET Commons](https://github.com/devantler/dotnet-commons) - Various .NET libraries built to simplify common tasks like Code Generation.
 
 ## How to Reach Me 📫
 
