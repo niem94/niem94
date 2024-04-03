@@ -116,10 +116,18 @@ git rm -f <path>
 <!-- readme-tree start -->
 ```
 .
-└── .github
-    └── workflows
+├── .github
+│   └── workflows
+├── .vscode
+├── _posts
+├── github-configuration
+└── projects
+    ├── dotnet-commons
+    ├── homelab
+    ├── ksail
+    └── oci-artifacts
 
-2 directories
+10 directories
 ```
 <!-- readme-tree end -->
 
