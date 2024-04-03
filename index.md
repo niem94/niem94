@@ -3,4 +3,4 @@ layout: page
 title: "Home"
 permalink: /
 ---
-{% include README.md %}
+{% include_relative README.md %}
