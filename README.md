@@ -40,9 +40,9 @@ public class Profile {
 ## Open Source Projects 🚀
 
 - [🛥️🐳 KSail](https://github.com/devantler/ksail) - A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.
-- [🏡 Homelab](https://github.com/devantler/homelab) - A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.
-- [📦 OCI Artifacts](https://github.com/devantler/oci-artifacts) - Popular Kustomize and Flux HelmRelease components that are distributed through OCI.
-- [📦 .NET Commons](https://github.com/devantler/dotnet-commons) - Various .NET libraries built to simplify common tasks like Code Generation.
+- [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) - Various .NET libraries built to simplify common tasks like Code Generation.
+- [🏠 Homelab](https://github.com/devantler/homelab) - A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.
+- [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) - Popular Kustomize and Flux HelmRelease components that are distributed through OCI.
 
 ## How to Reach Me 📫
 
