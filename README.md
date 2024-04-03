@@ -1,8 +1,3 @@
----
-layout: page
-title: "Home"
-permalink: /
----
 ![](https://komarev.com/ghpvc/?username=devantler)
 
 # Hi there 👨🏻‍💻🤘🏻
