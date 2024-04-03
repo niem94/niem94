@@ -49,10 +49,6 @@ public class Profile {
 - [🏠 Homelab](https://github.com/devantler/homelab) - A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.
 - [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) - Popular Kustomize and Flux HelmRelease components that are distributed through OCI.
 
-## How to Reach Me 📫
-
-Feel free to reach out to me at [ned@devantler.com](mailto:ned@devantler.com).
-
 ## Live Stats 📊
 
 <div align="center">
@@ -63,6 +59,8 @@ Feel free to reach out to me at [ned@devantler.com](mailto:ned@devantler.com).
     <img alt="github-readme-stats" align="center" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
   </a>
 </div>
+
+<!-- {% comment %} -->
 
 ## For Maintainers 🛠️
 
@@ -137,3 +135,5 @@ git rm -f <path>
 <!-- readme-tree end -->
 
 </details>
+
+<!-- {% endcomment %} -->
