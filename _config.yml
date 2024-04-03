@@ -2,8 +2,9 @@ title: Nikolai Emil Damm
 email: ned@devantler.com
 description: >-
   I am an ambitious software engineer with an agile mindset, and the desire to overcome innovative challenges. For that open source is my toolbox 🧰
-baseurl: ""
-url: ""
+domain: devantler.github.io
+baseurl: devantler
+url: https://devantler.github.io
 github_username:  devantler
 
 theme: minima
