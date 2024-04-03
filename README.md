@@ -74,7 +74,7 @@ When you clone the monorepo for the first time, you need to initialize the submo
 git submodule update --init --recursive
 ```
 
-Alternatively you can clone the monorepo with the `--recurse-submodules` flag:
+Alternatively, you can clone the monorepo with the `--recurse-submodules` flag:
 
 ```bash
 git clone --recurse-submodules git@github.com:energinet-digitalisering/[department-name].git
