@@ -1,0 +1,16 @@
+[submodule "github-configuration"]
+	path = github-configuration
+	url = git@github.com:devantler/.github.git
+	branch = main
+[submodule "projects/homelab"]
+	path = projects/homelab
+	url = git@github.com:devantler/homelab.git
+[submodule "projects/dotnet-commons"]
+	path = projects/dotnet-commons
+	url = git@github.com:devantler/dotnet-commons.git
+[submodule "projects/ksail"]
+	path = projects/ksail
+	url = git@github.com:devantler/ksail.git
+[submodule "projects/oci-artifacts"]
+	path = projects/oci-artifacts
+	url = git@github.com:devantler/oci-artifacts.git
