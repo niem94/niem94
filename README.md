@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to Nikolai Emil Damm's Curriculum Vitae"
+title: "Home"
 permalink: /
 ---
 ![](https://komarev.com/ghpvc/?username=devantler)
