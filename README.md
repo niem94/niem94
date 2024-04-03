@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Welcome to Nikolai Emil Damm's Curriculum Vitae"
+permalink: /
+---
 ![](https://komarev.com/ghpvc/?username=devantler)
 
 # Hi there 👨🏻‍💻🤘🏻
