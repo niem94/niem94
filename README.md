@@ -117,7 +117,6 @@ git rm -f <path>
 ├── .github
 │   └── workflows
 ├── .vscode
-├── _posts
 ├── github-configuration
 └── projects
     ├── dotnet-commons
@@ -125,7 +124,7 @@ git rm -f <path>
     ├── ksail
     └── oci-artifacts
 
-10 directories
+9 directories
 ```
 <!-- readme-tree end -->
 
