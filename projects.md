@@ -76,4 +76,4 @@ My master thesis project, where I built a data product inspired by the Data Mesh
 
 The project was build as a containerized application, such that it can be deployed to various container orchestrators, and it was built according to many of the best practices I have learnt to appreciate from my interest in CNCF projects.
 
-If you are interested in reading my thesis, you can find it [here](https://github.com/devantler/devantler/blob/main/assets/pdfs/thesis.pdf).
+If you are interested in reading my thesis, you can find it [here](assets/pdfs/thesis.pdf).
