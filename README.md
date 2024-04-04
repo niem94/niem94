@@ -58,17 +58,88 @@ public class DevProfile {
 
 ## Professional Experience 💼
 
-### Software Developer in the Digital Incubator at Energinet
+Years of experience in software development have given me a solid foundation in modern software development practices and technologies. I have worked on a wide range of projects, from developing and maintaining e-commerce platforms to creating and operating cloud-native solutions. I have a strong passion for learning and sharing knowledge, and I'm always looking for new challenges and opportunities to grow as a software developer. I have a sharp eye for detail and a strong focus on quality and simplicity in everything I do.
 
-**Duration**: August 2023 - Present
+### Software Developer <span style="float:right">August 2023 - Present</span>
 
-**Key Responsibilities**:
+*Energinet, Fredericia*
+
+Working as a software developer at Energinet, I'm part of the Digital Incubator. The team is responsible for developing and maintaining software solutions that have been identified as strategic and innovative for the organization. Furthermore, the team is very focused on adopting modern software development practices and technologies, while promoting a culture that encourages learning and sharing knowledge across the organization.
 
 - Developing and maintaining K8s infrastructure.
 - Developing and maintaining GitOps tooling.
 - Developing and maintaining CI/CD pipelines.
 - Developing and maintaining IT and OT integrations.
 - Supporting the organization in adopting modern software development practices like GitOps, DevOps, and cloud-native.
+
+### Teaching Assistant <span style="float:right">September 2022 - August 2023</span>
+
+*University of Southern Denmark, Odense*
+
+Working as a teaching assistant in Big Data at the University of Southern Denmark, I was part of the teaching team for the Big Data course. I was responsible for creating course material, teaching students, and helping students with their exercises. The course was focused on teaching students how to work with big data and how to use big data technologies to solve real-world problems like handling large amounts of data, analyzing data, and visualizing data.
+
+- Creating course material.
+- Teaching students.
+- Helping students with their exercises.
+
+### Student Software Developer <span style="float:right">July 2022 - August 2023</span>
+
+*Umbraco, Odense*
+
+Working as a student software developer at Umbraco, I was part of the Umbraco Heartcore team. The team is responsible for developing and maintaining the Umbraco Heartcore headless CMS. The team is very focused on building a good user experience for Umbraco Heartcore users, while ensuring that the product is reliable and scalable.
+
+- Developing and maintaining the Umbraco Heartcore Product.
+- Working with operation of the Umbraco Heartcore Product in Azure Portal.
+- Working with Infrastructure as Code (IaC) with Terraform.
+- Working with CI/CD pipelines in Azure DevOps.
+- Working in a DevOps team with a focus on automation and monitoring.
+
+### Student Software Developer <span style="float:right">November 2021 - July 2022</span>
+
+*FiftyTwo, Kolding*
+
+Working as a student software developer at FiftyTwo, I was part of the development team for an e-commerce platform. The team was responsible for developing and maintaining the e-commerce platform, while ensuring that the platform was reliable and scalable. The team was focused on finding the right balance between maintaining a reliable platform and developing new features.
+
+- Developing and maintaining the e-commerce platform.
+- Working with .NET Framework and SVN.
+- Working with SQL Server and Stored Procedures.
+- Working with Kabana and Network Monitoring.
+
+### Student Software Developer <span style="float:right">February 2021 - November 2021</span>
+
+*Maersk Mc-Kinney Moller Institute, Odense*
+
+Working as a student software developer at the Maersk Mc-Kinney Moller Institute, I was the sole developer of a platform that was used in research projects and course material to explore the possibilities of mapping and visualizing Business Ecosystems with UML. The platform was developed in C# and Blazor WebAssembly and was used to create and visualize Business Ecosystems with a UML editor. Students and researchers were able to create user accounts and manage their Business Ecosystems in the platform.
+
+- Developing and operating a web-based platform.
+- Working with C# and Blazor WebAssembly.
+- Working with SQL Server and Entity Framework.
+- Working with Azure and GitHub Actions.
+- Working with Actor-Based modeling and UML.
+- Working closely with researchers and students.
+- Working alone on a project from start to finish.
+
+### Teaching Assistant <span style="float:right">September 2020 - December 2020</span>
+
+*University of Southern Denmark, Odense*
+
+Working as a teaching assistant in Object-Oriented Programming at the University of Southern Denmark, I was part of the teaching team for the Object-Oriented Programming course. I was responsible for creating course material, teaching students, and helping students with their exercises. The course was focused on teaching new students the core principles of object-oriented programming and how to code in Java.
+
+- Creating course material.
+- Teaching students.
+- Helping students with their exercises.
+
+### Student Software Developer <span style="float:right">February 2018 - May 2019</span>
+
+*GF Forsikring, Odense*
+
+Working as a student software developer at GF Forsikring, I was part of the development team for the GF Forsikring website and landing pages. The team was responsible for developing and maintaining the sites in Sitecore. The team was focused on creating a good user experience for GF Forsikring customers, while ensuring that the sites were reliable.
+
+- Developing and maintaining the GF Forsikring website and landing pages.
+- Working with Sitecore, Git and SVN.
+- Working with AngularJS and many other front-end technologies.
+- Working with SQL Server.
+- Working with the Marketing team to quickly create landing pages for campaigns.
 
 ## Projects 📽️
 
