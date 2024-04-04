@@ -218,7 +218,6 @@ git rm -f <path>
   <summary>Show/Hide folder structure</summary>
 
 <!-- readme-tree start -->
-
 ```
 .
 ├── .github
@@ -233,7 +232,6 @@ git rm -f <path>
 
 9 directories
 ```
-
 <!-- readme-tree end -->
 
 </details>
