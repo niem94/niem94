@@ -141,7 +141,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 - Working with SQL Server.
 - Working with the Marketing team to quickly create landing pages for campaigns.
 
-## Projects 📽️
+## ![Projects 📽️](https://devantler.com/projects)
 
 | Project Name                                                   | Description                                                                                                                                                       |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
