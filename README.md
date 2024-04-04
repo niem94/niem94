@@ -37,7 +37,7 @@ public class Profile {
 - Developing and maintaining IT and OT integrations.
 - Supporting the organization in adopting modern software development practices like GitOps, DevOps, and cloud-native.
 
-## Open Source Projects 🚀
+## Open Source Projects 📽️
 
 - [🛥️🐳 KSail](https://github.com/devantler/ksail) - A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.
 - [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) - Various .NET libraries built to simplify common tasks like Code Generation.
