@@ -62,7 +62,7 @@ Years of experience in software development have given me a solid foundation in 
 
 ### Software Developer <span style="float:right">August 2023 - Present</span>
 
-*Energinet, Fredericia*
+_Energinet, Fredericia_
 
 Working as a software developer at Energinet, I'm part of the Digital Incubator. The team is responsible for developing and maintaining software solutions that have been identified as strategic and innovative for the organization. Furthermore, the team is very focused on adopting modern software development practices and technologies, while promoting a culture that encourages learning and sharing knowledge across the organization.
 
@@ -74,7 +74,7 @@ Working as a software developer at Energinet, I'm part of the Digital Incubator.
 
 ### Teaching Assistant <span style="float:right">September 2022 - August 2023</span>
 
-*University of Southern Denmark, Odense*
+_University of Southern Denmark, Odense_
 
 Working as a teaching assistant in Big Data at the University of Southern Denmark, I was part of the teaching team for the Big Data course. I was responsible for creating course material, teaching students, and helping students with their exercises. The course was focused on teaching students how to work with big data and how to use big data technologies to solve real-world problems like handling large amounts of data, analyzing data, and visualizing data.
 
@@ -84,7 +84,7 @@ Working as a teaching assistant in Big Data at the University of Southern Denmar
 
 ### Student Software Developer <span style="float:right">July 2022 - August 2023</span>
 
-*Umbraco, Odense*
+_Umbraco, Odense_
 
 Working as a student software developer at Umbraco, I was part of the Umbraco Heartcore team. The team is responsible for developing and maintaining the Umbraco Heartcore headless CMS. The team is very focused on building a good user experience for Umbraco Heartcore users, while ensuring that the product is reliable and scalable.
 
@@ -96,7 +96,7 @@ Working as a student software developer at Umbraco, I was part of the Umbraco He
 
 ### Student Software Developer <span style="float:right">November 2021 - July 2022</span>
 
-*FiftyTwo, Kolding*
+_FiftyTwo, Kolding_
 
 Working as a student software developer at FiftyTwo, I was part of the development team for an e-commerce platform. The team was responsible for developing and maintaining the e-commerce platform, while ensuring that the platform was reliable and scalable. The team was focused on finding the right balance between maintaining a reliable platform and developing new features.
 
@@ -107,7 +107,7 @@ Working as a student software developer at FiftyTwo, I was part of the developme
 
 ### Student Software Developer <span style="float:right">February 2021 - November 2021</span>
 
-*Maersk Mc-Kinney Moller Institute, Odense*
+_Maersk Mc-Kinney Moller Institute, Odense_
 
 Working as a student software developer at the Maersk Mc-Kinney Moller Institute, I was the sole developer of a platform that was used in research projects and course material to explore the possibilities of mapping and visualizing Business Ecosystems with UML. The platform was developed in C# and Blazor WebAssembly and was used to create and visualize Business Ecosystems with a UML editor. Students and researchers were able to create user accounts and manage their Business Ecosystems in the platform.
 
@@ -121,7 +121,7 @@ Working as a student software developer at the Maersk Mc-Kinney Moller Institute
 
 ### Teaching Assistant <span style="float:right">September 2020 - December 2020</span>
 
-*University of Southern Denmark, Odense*
+_University of Southern Denmark, Odense_
 
 Working as a teaching assistant in Object-Oriented Programming at the University of Southern Denmark, I was part of the teaching team for the Object-Oriented Programming course. I was responsible for creating course material, teaching students, and helping students with their exercises. The course was focused on teaching new students the core principles of object-oriented programming and how to code in Java.
 
@@ -131,7 +131,7 @@ Working as a teaching assistant in Object-Oriented Programming at the University
 
 ### Student Software Developer <span style="float:right">February 2018 - May 2019</span>
 
-*GF Forsikring, Odense*
+_GF Forsikring, Odense_
 
 Working as a student software developer at GF Forsikring, I was part of the development team for the GF Forsikring website and landing pages. The team was responsible for developing and maintaining the sites in Sitecore. The team was focused on creating a good user experience for GF Forsikring customers, while ensuring that the sites were reliable.
 
@@ -143,12 +143,13 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 ## [Projects 📽️](https://devantler.com/projects)
 
-| Project Name                                                   | Description                                                                                                                                                       |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.                                                                                                |
-| [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) | Various .NET libraries built to simplify common tasks like Code Generation.                                                                                       |
-| [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes. |
-| [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                               |
+| Project Name                                                   | Description                                                                                                                                                                       |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.                                                                                                                |
+| [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) | Various .NET libraries built to simplify common tasks like Code Generation.                                                                                                       |
+| [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.                 |
+| [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                                               |
+| [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. |
 
 ## Live Stats 📊
 
@@ -218,6 +219,7 @@ git rm -f <path>
   <summary>Show/Hide folder structure</summary>
 
 <!-- readme-tree start -->
+
 ```
 .
 ├── .github
@@ -232,6 +234,7 @@ git rm -f <path>
 
 9 directories
 ```
+
 <!-- readme-tree end -->
 
 </details>
