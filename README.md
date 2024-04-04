@@ -8,18 +8,51 @@
 
 ## About Me 📝
 
+> **Name**: Nikolai Emil Damm 🧑🏻
+>
+> **Alias**: devantler 🦸🏻
+>
+> **Nationality**: Danish 🇩🇰
+>
+> **Languages**: Danish, English 🌍
+>
+> **Location**: Kolding, Denmark 📍
+>
+> **Time Zone**: Central European Time (CET) ⏰
+>
+> **Pronouns**: He/Him 🧍🏻‍♂️
+>
+> **Personal Interests**: Running, Gaming, Technology and Music 🏃🏻🎮📱🎧
+>
+> **Education**: MSc in Software Engineering 🎓
+>
+> **Occupation**: Software Developer 🧑🏻‍💻
+
 As a software engineer, I have a strong passion for modern software development practices and technologies. I truly believe in the power of open-source software, especially its ability to spark innovation and encourage collaboration. I'm a big fan of the Cloud Native Computing Foundation (CNCF) and appreciate their work in promoting the use of cloud-native technologies. I believe that by working together on important software, we can tackle the challenges we face today and in the future.
 
 ```csharp
-public class Profile {
-  public string Name { get; init; } = "Nikolai Emil Damm";
-  public string Alias { get; set; } = "devantler";
-  public string Job { get; set;} = "Software Developer in the Digital Incubator at Energinet";
-  public string Education { get; set; } = "MSc in Software Engineering";
+public class DevProfile {
   public FavLang FavLang { get; set; } = FavLang.CSharp;
-  public string[] Skills { get; set; } = { "C#/.NET", "Go", "K8s", "Docker", "CNCF", "And much much more" };
-  public string[] Interests { get; set; } = { "GitOps", "Meshing", "Observability", "Modern approaches to bridge OT and IT" };
-  public string[] PersonalInterests { get; set; } = { "Running", "Gaming", "Technology" };
+  public string[] Skills { get; set; } = {
+    "C#/.NET",
+    "Go",
+    "K8s",
+    "Docker",
+    "Infrastructure as Code",
+    "CNCF Tools and Technologies",
+    "And much much more"
+  };
+  public string[] Interests { get; set; } = {
+    "Modern approaches to bridge OT and IT",
+    "Simplifying Software Development and Operations",
+    "Making Software Development Fun and Enjoyable",
+    "Incorparating User Feedback early and often",
+    "Testing Everything",
+    "Automating Everything",
+    "Sharing Knowledge through Open Source",
+    "Advocating 'X as Code' approaches",
+    "Building on top of the shoulders of giants"
+  };
 }
 ```
 
