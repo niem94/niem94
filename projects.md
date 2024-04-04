@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Projects"
+title: "Projects 📽️"
 permalink: /projects
 ---
-## Projects 📽️
-
-### [🛥️🐳 KSail](https://github.com/devantler/ksail)
+## [🛥️🐳 KSail](https://github.com/devantler/ksail)
 
 A CLI tool for provisioning GitOps-enabled K8s clusters in Docker. It is especially useful for local development and in CI pipelines.
 
@@ -13,7 +11,7 @@ Locally it allows you to spin up a K8s cluster with GitOps enabled to instantly 
 
 In CI pipelines, it allows you to spin up a K8s cluster with GitOps enabled and test that it successfully deploys your applications.
 
-### [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons)
+## [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons)
 
 Various .NET libraries I built to simplify common tasks I encounter in my day-to-day work. The libraries are built to be as simple as possible to use, and often wrap more complex libraries to simplify common use cases in .NET. As such, they are not as flexible as the libraries they wrap, but they are much easier to use.
 
@@ -21,7 +19,7 @@ As I encounter more complex use cases, these libraries will grow in complexity, 
 
 I use and maintain these libraries regularly, but I really appreciate contributions and feedback to find out whether they can be useful to others.
 
-### [🏠 Homelab](https://github.com/devantler/homelab)
+## [🏠 Homelab](https://github.com/devantler/homelab)
 
 A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.
 
@@ -29,7 +27,7 @@ I use this cluster to learn and experiment with new technologies and approaches 
 
 I also plan to use this cluster to run services that I use in my day-to-day life, for entertainment, personal projects, or self-hosted services to cut costs and own my own data.
 
-### [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts)
+## [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts)
 
 A spin-off project from my Homelab project, that simplifies my GitOps deployments by distributing my Kustomize and Flux HelmRelease components through OCI. Doing this allows me to deploy my applications in a single line of code, and still have the flexibility of regular Kustomize and Helm charts. The approach was inspired by shared libraries in regular programming languages, and I felt that Helm charts and Kustomize components required way too much duplication of code when deploying in multiple environments.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Curriculum Vitae 📄"
 permalink: /
 ---
 {% include_relative README.md %}
