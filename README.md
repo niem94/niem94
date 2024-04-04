@@ -37,12 +37,14 @@ public class Profile {
 - Developing and maintaining IT and OT integrations.
 - Supporting the organization in adopting modern software development practices like GitOps, DevOps, and cloud-native.
 
-## Open Source Projects 📽️
+## Projects 📽️
 
-- [🛥️🐳 KSail](https://github.com/devantler/ksail) - A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.
-- [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) - Various .NET libraries built to simplify common tasks like Code Generation.
-- [🏠 Homelab](https://github.com/devantler/homelab) - A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.
-- [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) - Popular Kustomize and Flux HelmRelease components that are distributed through OCI.
+| Project Name                                                   | Description                                                                                                                                                       |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.                                                                                                |
+| [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) | Various .NET libraries built to simplify common tasks like Code Generation.                                                                                       |
+| [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes. |
+| [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                               |
 
 ## Live Stats 📊
 
@@ -112,6 +114,7 @@ git rm -f <path>
   <summary>Show/Hide folder structure</summary>
 
 <!-- readme-tree start -->
+
 ```
 .
 ├── .github
@@ -126,6 +129,7 @@ git rm -f <path>
 
 9 directories
 ```
+
 <!-- readme-tree end -->
 
 </details>
