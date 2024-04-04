@@ -3,6 +3,9 @@ layout: page
 title: "Projects 📽️"
 permalink: /projects
 ---
+
+<iframe src="https://github.com/sponsors/devantler/button" title="Sponsor devantler" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 ## [🛥️🐳 KSail](https://github.com/devantler/ksail)
 
 A CLI tool for provisioning GitOps-enabled K8s clusters in Docker. It is especially useful for local development and in CI pipelines.
