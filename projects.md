@@ -8,7 +8,7 @@ permalink: /projects
 
 ## [🛥️🐳 KSail](https://github.com/devantler/ksail) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
-```sh
+```txt
 ❯ ksail
 🛥️ 🐳    Welcome to KSail!    🛥️ 🐳
                                      . . .
