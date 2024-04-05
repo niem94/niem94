@@ -6,7 +6,11 @@ permalink: /projects
 
 <iframe src="https://github.com/sponsors/devantler/button" title="Sponsor devantler" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
-## [🛥️🐳 KSail](https://github.com/devantler/ksail) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+## 🔨 Active Projects
+
+These are the projects I am currently working on, and I am actively maintaining and developing them. I am always looking for contributors and feedback, so feel free to reach out if you are interested in contributing or have feedback on the projects. You can do so by visiting the projects GitHub page and following the contribution guidelines.
+
+### [🛥️🐳 KSail](https://github.com/devantler/ksail) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 ```txt
 ❯ ksail
@@ -46,7 +50,7 @@ Locally it allows you to spin up a K8s cluster with GitOps enabled to instantly 
 
 In CI pipelines, it allows you to spin up a K8s cluster with GitOps enabled and test that it successfully deploys your applications.
 
-## [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+### [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ![.NET Commons](assets/images/dotnet-commons.webp)
 
@@ -56,7 +60,7 @@ As I encounter more complex use cases, these libraries will grow in complexity, 
 
 I use and maintain these libraries regularly, but I really appreciate contributions and feedback to find out whether they can be useful to others.
 
-## [🏠 Homelab](https://github.com/devantler/homelab) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Flux](https://img.shields.io/badge/Flux-5468FF.svg?style=for-the-badge&logo=Flux&logoColor=white) ![Talos Linux](https://img.shields.io/badge/Talos-FF7300.svg?style=for-the-badge&logo=Talos&logoColor=white) (WIP)
+### [🏠 Homelab](https://github.com/devantler/homelab) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Flux](https://img.shields.io/badge/Flux-5468FF.svg?style=for-the-badge&logo=Flux&logoColor=white) ![Talos Linux](https://img.shields.io/badge/Talos-FF7300.svg?style=for-the-badge&logo=Talos&logoColor=white) (WIP)
 
 ![Homelab](assets/images/homelab.webp)
 
@@ -66,7 +70,7 @@ I use this cluster to learn and experiment with new technologies and approaches 
 
 I also plan to use this cluster to run services that I use in my day-to-day life, for entertainment, personal projects, or self-hosted services to cut costs and own my own data.
 
-## [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Open Container Initiative](https://img.shields.io/badge/Open%20Containers%20Initiative-262261.svg?style=for-the-badge&logo=Open-Containers-Initiative&logoColor=white) (WIP)
+### [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Open Container Initiative](https://img.shields.io/badge/Open%20Containers%20Initiative-262261.svg?style=for-the-badge&logo=Open-Containers-Initiative&logoColor=white) (WIP)
 
 ![OCI Artifacts](assets/images/oci-artifacts.webp)
 
@@ -76,7 +80,13 @@ Most of the OCI Artifacts are dependent on Flux Kustomizations, and they use Flu
 
 I strive to keep the OCI Artifacts as simple as possible, such that they are very close to the original Kustomize and Helm charts default values. But in many cases, Helm Chart maintainers do not provide default values that enable the component to be deployed out-of-the-box. In those cases, I enforce some post-build variables to be set to ensure that the component can be deployed.
 
-## [⬡ Data Product](https://github.com/devantler/data-product) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) (Inactive)
+## 🔨 Inactive Projects
+
+These projects are no longer actively maintained, but I still think they are interesting, and I would love to pick them up again if I find the time or opportunity to do so.
+
+### [⬡ Data Product](https://github.com/devantler/data-product) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Data Product](assets/images/data-product.webp)
 
 My master thesis project, where I built a data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. The project is built in .NET and uses a .NETs Source Generators to generate the data product based on its schema, and a YAML configuration file for the data product. As such, users were able to define their data product in a YAML file, and reference their schema to generate a data product with support for REST, GrapQL, Streaming, Observability, and more out-of-the-box.
 
@@ -84,21 +94,31 @@ The project was build as a containerized application, such that it can be deploy
 
 If you are interested in reading my thesis, you can find it [here](assets/pdfs/thesis.pdf).
 
-## [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+### [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+![Pandoc Plus](assets/images/pandoc-plus.webp)
 
 A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX-styled scientific papers with Markdown. The image is built to include all the necessary batteries to create high-quality scientific papers, supporting the most common features of LaTeX, with a simple Markdown syntax. Pandoc Plus also supports beautiful transformations of all Markdown syntax, such that transpiles to good LaTeX practices, and results in a beautiful PDF. It being a docker image, also makes it trivial to use in CI pipelines, to ensure your scientific papers compile correctly, and that you can easily share your work with others. This essentially allows you to write your scientific papers in accordance with best practices in software development, saving you lots of time and effort.
 
 Pandoc Plus was developed as a side project to my master thesis, which was also a compiled by Pandoc Plus. If you are interested in seeing the output of Pandoc Plus, and how the projects source code is structured, you can find my Master Thesis [here](assets/pdfs/thesis.pdf).
 
-## [🤖 Star Wars Site](https://github.com/devantler/star-wars-site) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1.svg?style=for-the-badge&logo=Umbraco&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-00CA8E.svg?style=for-the-badge&logo=Nomad&logoColor=white)
+## ✅ Completed Projects
+
+These are projects that I have completed, and that I am no longer actively maintaining. These are projects that for one or another reason have a stopping point, as they were projects built for a specific purpose that does not require maintenance, or because I have actively abandoned them.
+
+### [🤖 Star Wars Site](https://github.com/devantler/star-wars-site) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1.svg?style=for-the-badge&logo=Umbraco&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-00CA8E.svg?style=for-the-badge&logo=Nomad&logoColor=white)
 
 A Star Wars site I built as part of a hirement process at Umbraco, where I was tasked with building a site that showcased my skills in .NET and Umbraco. The site is built as a Blazor WebAssembly application, that fetches data from Umbraco Heartcore, and displays it in a Star Wars themes site. The site is built to be responsive and to be as fast as possible, and it uses a lot of the latest and greatest technologies in .NET and Umbraco. To make the project a bit more interesting I decided to deploy the site to a Nomad cluster, as this was a technology I was interested in learning more about at the time. Nomad was a great container orchestrator, but I found it to be a bit too underappreciated in the industry, hence I now use Kubernetes for most of my projects, as it is more widely adopted.
 
 The site is no longer maintained, as it was connected to an Umbraco Heartcore instance that was only available during the hirement process. But the source code is still available!
 
-## 🎓 School Projects at University of Southern Denmark
+## 🎓 School Projects at the University of Southern Denmark
+
+These are projects I have completed during my time at the University of Southern Denmark. They are projects that I am proud of, and that I think showcase my skills and dedication to learn and explore new technologies and approaches to solving software engineering problems.
 
 ### 🌏 Exploration of state-of-the-art technology, architectures and tools to create future-proof data spaces <span style="float:right">10th semester (MSc)</span>
+
+![Data Space as a Data Mesh](assets/images/data-space-as-a-data-mesh.png)
 
 ⭐️ Graded 12/12
 
@@ -135,6 +155,8 @@ A big data system that scraped satellite imagery of beach geo-locations from the
 You can read the report [here](assets/pdfs/ecobeach.pdf)
 
 ### ⬣ HexUML <span style="float:right">6th semester (BSc)</span>
+
+![HexUML](assets/images/hexuml.png)
 
 ⭐️ Graded 12/12
 
