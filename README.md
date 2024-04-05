@@ -141,6 +141,10 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 - Working with SQL Server.
 - Working with the Marketing team to quickly create landing pages for campaigns.
 
+## Achievements
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dc17e616-a6f6-4d77-b1e3-358c83e90427" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## [Projects 📽️](https://devantler.com/projects)
 
 | Project Name                                                   | Description                                                                                                                                                                       |
