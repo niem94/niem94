@@ -141,6 +141,12 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 - Working with SQL Server.
 - Working with the Marketing team to quickly create landing pages for campaigns.
 
+## Achievements
+
+- [Credly Badges](https://www.credly.com/users/nikolai-emil-damm/badges)
+
+![Cilium: Discovery Platform Engineer](assets/images/badges/cilium-discovery-platform-engineer.png)
+
 ## [Projects 📽️](https://devantler.com/projects)
 
 | Project Name                                                   | Description                                                                                                                                                                       |
@@ -150,6 +156,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 | [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.                 |
 | [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                                               |
 | [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. |
+| [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus)     | A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX styled scientific papers with Markdown.                                                |
 
 ## Live Stats 📊
 

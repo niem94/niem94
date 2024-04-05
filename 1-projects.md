@@ -83,3 +83,59 @@ My master thesis project, where I built a data product inspired by the Data Mesh
 The project was build as a containerized application, such that it can be deployed to various container orchestrators, and it was built according to many of the best practices I have learnt to appreciate from my interest in CNCF projects.
 
 If you are interested in reading my thesis, you can find it [here](assets/pdfs/thesis.pdf).
+
+## [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX-styled scientific papers with Markdown. The image is built to include all the necessary batteries to create high-quality scientific papers, supporting the most common features of LaTeX, with a simple Markdown syntax. Pandoc Plus also supports beautiful transformations of all Markdown syntax, such that transpiles to good LaTeX practices, and results in a beautiful PDF. It being a docker image, also makes it trivial to use in CI pipelines, to ensure your scientific papers compile correctly, and that you can easily share your work with others. This essentially allows you to write your scientific papers in accordance with best practices in software development, saving you lots of time and effort.
+
+Pandoc Plus was developed as a side project to my master thesis, which was also a compiled by Pandoc Plus. If you are interested in seeing the output of Pandoc Plus, and how the projects source code is structured, you can find my Master Thesis [here](assets/pdfs/thesis.pdf).
+
+## [🤖 Star Wars Site](https://github.com/devantler/star-wars-site) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1.svg?style=for-the-badge&logo=Umbraco&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-00CA8E.svg?style=for-the-badge&logo=Nomad&logoColor=white)
+
+A Star Wars site I built as part of a hirement process at Umbraco, where I was tasked with building a site that showcased my skills in .NET and Umbraco. The site is built as a Blazor WebAssembly application, that fetches data from Umbraco Heartcore, and displays it in a Star Wars themes site. The site is built to be responsive and to be as fast as possible, and it uses a lot of the latest and greatest technologies in .NET and Umbraco. To make the project a bit more interesting I decided to deploy the site to a Nomad cluster, as this was a technology I was interested in learning more about at the time. Nomad was a great container orchestrator, but I found it to be a bit too underappreciated in the industry, hence I now use Kubernetes for most of my projects, as it is more widely adopted.
+
+The site is no longer maintained, as it was connected to an Umbraco Heartcore instance that was only available during the hirement process. But the source code is still available!
+
+## 🎓 School Projects at University of Southern Denmark
+
+### 🌏 Exploration of state-of-the-art technology, architectures and tools to create future-proof data spaces <span style="float:right">10th semester (MSc)</span>
+
+⭐️ Graded 12/12
+
+An exploration of whether a data space can be implemented as a data mesh, focusing on challenges and potential benefits for collaboration among actors in the Danish energy sector. The study employs constructivism and the constructive research approach as its methodology, utilizing the grounded theory method to conduct fieldwork and create theories and hypotheses from the results. The research encompasses topics such as the climate, the Danish energy sector, data spaces, and data mesh, emphasizing a prototype of a data mesh’s central component, a data product. The prototype demonstrates that the data mesh approach can be successfully applied to data spaces, enabling better separation of domains within sectors and enabling discoverability, observability, and governance. However, it lacks the features and the maturity to provide a production-ready and complete solution. Overall, this thesis contributes to the ongoing discussion on future-proof data spaces and provides insights into implementing a data space as a data mesh to achieve that goal.
+
+If you are interested in reading my thesis, you can find it [here](assets/pdfs/thesis.pdf).
+
+### 📊 Power Price Assistant <span style="float:right">9th semester</span>
+
+![Power Price Assistant](assets/images/power-price-assistant.png)
+
+⭐️ Graded 12/12
+
+A web app that simulates a system that can advise on what electricity provider to choose based on the user's electricity consumption patterns, and priorities.
+
+### 🏗️ Simulated Assembly Line <span style="float:right">8th semester</span>
+
+<video width="640" height=" 360" controls>
+  <source src="assets/videos/simulated-assembly-line.mp4" type="video/mp4">
+</video>
+
+⭐️ Graded 10/12
+
+A simulated assembly line consisting of a self-constructed crane, a rotating disk, and a web camera. It was programmed by the group's own Domain-Specific Language (DSL), which generated a client that could execute the program. The client utilized MQTT to communicate with the embedded system.
+
+### 🌊 EcoBeach <span style="float:right">7th semester</span>
+
+![EcoBeach](assets/images/ecobeach.png)
+
+⭐️ Graded 7/12
+
+A big data system that scraped satellite imagery of beach geo-locations from the Sentinel-2 satellite and processed them to determine how shorelines have changed over time. An Android app was also built to visualize the data.
+
+You can read the report [here](assets/pdfs/ecobeach.pdf)
+
+### ⬣ HexUML <span style="float:right">6th semester (BSc)</span>
+
+⭐️ Graded 12/12
+
+A generic transpiler framework capable of translating one text source into another, e.g., from Java to C#. The framework was used to generate AnyLogic models for a web-based application (EcosystemMapGenerator), that I built for SDU during my hire as a student programmer at Maersk Mc-Kinney Moller Institute from February 2021 to November 2021.
