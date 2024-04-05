@@ -226,12 +226,18 @@ git rm -f <path>
   <summary>Show/Hide folder structure</summary>
 
 <!-- readme-tree start -->
-
 ```
 .
 ├── .github
 │   └── workflows
 ├── .vscode
+├── _drafts
+│   └── _posts
+├── assets
+│   ├── images
+│   │   └── badges
+│   ├── pdfs
+│   └── videos
 ├── github-configuration
 └── projects
     ├── dotnet-commons
@@ -239,9 +245,8 @@ git rm -f <path>
     ├── ksail
     └── oci-artifacts
 
-9 directories
+16 directories
 ```
-
 <!-- readme-tree end -->
 
 </details>
