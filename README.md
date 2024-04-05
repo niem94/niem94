@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=devantler)
 
-# Hi there 👨🏻‍💻🤘🏻
+# Hi there 👋🏻
 
 <p align="center">
   <img alt="profile-image" src="https://github.com/devantler/devantler/assets/26203420/60c5ee86-ce7e-4962-b459-e40d991589f1" width="500">
@@ -8,9 +8,9 @@
 
 ## About Me 📝
 
-> **Name**: Nikolai Emil Damm 🧑🏻
+> **Name**: Nikolai Emil Damm 👨🏻
 >
-> **Alias**: devantler 🦸🏻
+> **Alias**: devantler 🧑🏻‍💻
 >
 > **Nationality**: Danish 🇩🇰
 >
@@ -20,7 +20,7 @@
 >
 > **Time Zone**: Central European Time (CET) ⏰
 >
-> **Pronouns**: He/Him 🧍🏻‍♂️
+> **Pronouns**: He/Him ♂
 >
 > **Personal Interests**: Running, Gaming, Technology and Music 🏃🏻🎮📱🎧
 >
@@ -162,6 +162,8 @@ Working as a student software developer at GF Forsikring, I was part of the deve
   </a>
 </div>
 
+<!-- {% comment %} -->
+
 ## For Maintainers 🛠️
 
 My Curriculum Vitae is also a central hub for all my active projects. As such this repository is a monorepo that contains all my active projects as submodules. This allows me to keep all my projects in one place and easily manage them. If you want to know more about how to work with this monorepo, please see the Getting Started Guide below.
@@ -236,3 +238,5 @@ git rm -f <path>
 <!-- readme-tree end -->
 
 </details>
+
+<!-- {% endcomment %} -->

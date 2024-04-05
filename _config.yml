@@ -18,7 +18,7 @@ minima:
     - platform: linkedin
       user_url: "https://www.linkedin.com/in/nikolai-emil-damm-14a786150/"
       title: LinkedIn
-show_excerpts: true
+show_excerpts: false
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
