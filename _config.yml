@@ -18,9 +18,6 @@ minima:
     - platform: linkedin
       user_url: "https://www.linkedin.com/in/nikolai-emil-damm-14a786150/"
       title: LinkedIn
-    - platform: credly
-      user_url: "https://www.credly.com/users/nikolai-emil-damm"
-      title: Credly
 show_excerpts: false
 plugins:
   - jekyll-feed
