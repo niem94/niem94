@@ -162,8 +162,6 @@ Working as a student software developer at GF Forsikring, I was part of the deve
   </a>
 </div>
 
-<!-- {% comment %} -->
-
 ## For Maintainers 🛠️
 
 My Curriculum Vitae is also a central hub for all my active projects. As such this repository is a monorepo that contains all my active projects as submodules. This allows me to keep all my projects in one place and easily manage them. If you want to know more about how to work with this monorepo, please see the Getting Started Guide below.
@@ -238,5 +236,3 @@ git rm -f <path>
 <!-- readme-tree end -->
 
 </details>
-
-<!-- {% endcomment %} -->
