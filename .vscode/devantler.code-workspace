@@ -4,32 +4,5 @@
       "name": "🏡 Devantler",
       "path": "../"
     },
-    {
-      "name": "⚙️ GitHub Configuration",
-      "path": "../github-configuration/"
-    },
-    {
-      "name": "📽️ Projects",
-      "path": "../projects/"
-    },
-    {
-      "name": "🛥️🐳 KSail",
-      "path": "../projects/ksail/"
-    },
-    {
-      "name": "#️⃣ .NET Commons",
-      "path": "../projects/dotnet-commons/"
-    },
-    {
-      "name": "🏠 Homelab",
-      "path": "../projects/"
-    },
-    {
-      "name": "🚚 OCI Artifacts",
-      "path": "../projects/oci-artifacts/"
-    }
-  ],
-  "settings": {
-    "git.ignoreSubmodules": true
-  }
+  ]
 }
