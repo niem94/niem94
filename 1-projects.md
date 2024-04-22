@@ -114,7 +114,7 @@ The site is no longer maintained, as it was connected to an Umbraco Heartcore in
 
 ## 🎓 School Projects at the University of Southern Denmark
 
-These are projects I have completed during my time at the University of Southern Denmark. They are projects that I am proud of, and that I think showcase my skills and dedication to learn and explore new technologies and approaches to solving software engineering problems.
+These are projects I have completed during my time as a Software Engineerging student at the University of Southern Denmark. They are projects that I am proud of, and that I think showcase my skills and dedication to learn and explore new technologies and approaches to solving software engineering problems.
 
 ### 🌏 Exploration of state-of-the-art technology, architectures and tools to create future-proof data spaces <span style="float:right">10th semester (MSc)</span>
 
