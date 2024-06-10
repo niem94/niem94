@@ -8,6 +8,8 @@ permalink: /projects
 
 ## 🔨 Active Projects
 
+---
+
 These are the projects I am currently working on, and I am actively maintaining and developing them. I am always looking for contributors and feedback, so feel free to reach out if you are interested in contributing or have feedback on the projects. You can do so by visiting the projects GitHub page and following the contribution guidelines.
 
 ### [🛥️🐳 KSail](https://github.com/devantler/ksail) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
@@ -82,6 +84,8 @@ I strive to keep the OCI Artifacts as simple as possible, such that they are ver
 
 ## 🔨 Inactive Projects
 
+---
+
 These projects are no longer actively maintained, but I still think they are interesting, and I would love to pick them up again if I find the time or opportunity to do so.
 
 ### [⬡ Data Product](https://github.com/devantler/data-product) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -104,6 +108,8 @@ Pandoc Plus was developed as a side project to my master thesis, which was also 
 
 ## ✅ Completed Projects
 
+---
+
 These are projects that I have completed, and that I am no longer actively maintaining. These are projects that for one or another reason have a stopping point, as they were projects built for a specific purpose that does not require maintenance, or because I have actively abandoned them.
 
 ### [🤖 Star Wars Site](https://github.com/devantler/star-wars-site) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1.svg?style=for-the-badge&logo=Umbraco&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-00CA8E.svg?style=for-the-badge&logo=Nomad&logoColor=white)
@@ -112,7 +118,9 @@ A Star Wars site I built as part of a hirement process at Umbraco, where I was t
 
 The site is no longer maintained, as it was connected to an Umbraco Heartcore instance that was only available during the hirement process. But the source code is still available!
 
-## 🎓 School Projects at the University of Southern Denmark
+## 🎓 School Projects
+
+---
 
 These are projects I have completed during my time as a Software Engineering student at the University of Southern Denmark. They are projects that I am proud of, and that I think showcase my skills and dedication to learn and explore new technologies and approaches to solving software engineering problems.
 
