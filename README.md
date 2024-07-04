@@ -64,7 +64,7 @@ Years of experience in software development have given me a solid foundation in 
 
 _Energinet, Fredericia_
 
-Working as a software developer at Energinet, I'm part of the Digital Incubator. The team is responsible for developing and maintaining software solutions that have been identified as strategic and innovative for the organization. Furthermore, the team is very focused on adopting modern software development practices and technologies, while promoting a culture that encourages learning and sharing knowledge across the organization.
+Working as a software developer at Energinet, I'm part of the Substation Data team born from the Digital Incubator in the Innovation department. The Digital Incubator is responsible for developing and maintaining software solutions that have been identified as strategic and innovative for the organization. Furthermore, the team is very focused on adopting modern software development practices and technologies, while promoting a culture that encourages learning and sharing knowledge across the organization. As a member of the Substation Data team my primary focus is on platform engineering and IT/OT convergence.
 
 - Developing and maintaining K8s infrastructure and platforms.
 - Developing and maintaining GitOps tooling.
