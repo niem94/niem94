@@ -66,11 +66,12 @@ _Energinet, Fredericia_
 
 Working as a software developer at Energinet, I'm part of the Digital Incubator. The team is responsible for developing and maintaining software solutions that have been identified as strategic and innovative for the organization. Furthermore, the team is very focused on adopting modern software development practices and technologies, while promoting a culture that encourages learning and sharing knowledge across the organization.
 
-- Developing and maintaining K8s infrastructure.
+- Developing and maintaining K8s infrastructure and platforms.
 - Developing and maintaining GitOps tooling.
 - Developing and maintaining CI/CD pipelines.
 - Developing and maintaining IT and OT integrations.
 - Supporting the organization in adopting modern software development practices like GitOps, DevOps, and cloud-native.
+- Community work to support the organization in becoming more aware of inner an open source benefits.
 
 ### Teaching Assistant <span style="float:right">September 2022 - August 2023</span>
 
