@@ -52,16 +52,6 @@ Locally it allows you to spin up a K8s cluster with GitOps enabled to instantly 
 
 In CI pipelines, it allows you to spin up a K8s cluster with GitOps enabled and test that it successfully deploys your applications.
 
-### [#️⃣ .NET Commons](https://github.com/devantler/dotnet-commons) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![.NET Commons](assets/images/dotnet-commons.webp)
-
-Various .NET libraries I built to simplify common tasks I encounter in my day-to-day work. The libraries are built to be as simple as possible to use, and often wrap more complex libraries to simplify common use cases in .NET. As such, they are not as flexible as the libraries they wrap, but they are much easier to use.
-
-As I encounter more complex use cases, these libraries will grow in complexity, but I will always strive to keep them as simple as possible without solving something that has already been solved.
-
-I use and maintain these libraries regularly, but I really appreciate contributions and feedback to find out whether they can be useful to others.
-
 ### [🏠 Homelab](https://github.com/devantler/homelab) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Flux](https://img.shields.io/badge/Flux-5468FF.svg?style=for-the-badge&logo=Flux&logoColor=white) ![Talos Linux](https://img.shields.io/badge/Talos-FF7300.svg?style=for-the-badge&logo=Talos&logoColor=white) (WIP)
 
 ![Homelab](assets/images/homelab.webp)
