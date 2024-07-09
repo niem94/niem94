@@ -159,6 +159,27 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 | [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. | On Hold |
 | [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus)     | A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX styled scientific papers with Markdown.                                                | On Hold |
 
+## [Libraries 📦](https://devantler.com/libraries)
+
+| Library Name                                                                             | Description                                                          | State          |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------- |
+| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                           | A simple .NET library that embeds the Age CLI.                       | In development |
+| [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                         | A simple .NET library that embeds the Flux CLI.                      | In development |
+| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                            | A simple .NET library that embeds the K3d CLI.                       | In development |
+| [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                           | A simple .NET library that embeds the K9s CLI.                       | In development |
+| [⚗️ .NET Kind CLI](https://github.com/devantler/dotnet-kind-cli)                         | A simple .NET library that embeds the Kind CLI.                      | In development |
+| [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)           | A simple .NET library that embeds the Kubeconform CLI.               | In development |
+| [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                | A simple .NET library that embeds the Kustomize CLI.                 | In development |
+| [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                         | A simple .NET library that embeds the SOPS CLI                       | In development |
+| [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)           | A simple template engine for .NET.                                   | Active         |
+| [☸️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator) | A simple code generator that can generate Kubernetes manifest files. | In development |
+
+## [Templates 📁](https://devantler.com/templates)
+
+| Template Name                                                    | Description                              | State  |
+| ---------------------------------------------------------------- | ---------------------------------------- | ------ |
+| [#️⃣ .NET Template](https://github.com/devantler/dotnet-template) | A simple .NET template for new projects. | Active |
+
 ## Live Stats 📊
 
 <div align="center">
