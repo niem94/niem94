@@ -1,5 +1,5 @@
 ---
-title: MacOS as a Developer Machine
+title: MacOS as a Developer Machine (WIP)
 layout: post
 ---
 
