@@ -2,7 +2,7 @@
 
 # Hi there 👋🏻
 
-![IMG_1014](https://github.com/user-attachments/assets/e3d96e5b-c181-4cf0-8452-d26bfa90bd72)
+<img src="[img_girl.jpg](https://github.com/user-attachments/assets/e3d96e5b-c181-4cf0-8452-d26bfa90bd72)" alt="Me summer 2024" width="400">
 
 ## About Me 📝
 
