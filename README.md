@@ -2,10 +2,8 @@
 
 # Hi there 👋🏻
 
-<div style="text-align: center">
-<img src="https://github.com/user-attachments/assets/e3d96e5b-c181-4cf0-8452-d26bfa90bd72" alt="Me summer 2024" width="300" align="center">
-</div>
-
+<a href="link" style="text-align: center">
+<img src="https://github.com/user-attachments/assets/e3d96e5b-c181-4cf0-8452-d26bfa90bd72" alt="Me summer 2024" width="300" align="center"></a>
 
 ## About Me 📝
 
