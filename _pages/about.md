@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Curriculum Vitae"
-permalink: /cv
+title: "About Me"
+permalink: /about
 image: 'assets/images/mountain-sky.jpg'
 ---
 

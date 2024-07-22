@@ -11,7 +11,7 @@ menu-settings:
     - title: 'Home'
       url: '/'
     - title: 'About Me'
-      url: '/cv'
+      url: '/about'
     - title: 'Projects'
       url: '/projects'
     - title: 'libraries'
