@@ -135,8 +135,8 @@ A web app that simulates a system that can advise on what electricity provider t
 
 #### ⭐️ Graded 12/12 <span style="float:right">8th semester</span>
 
-<video width="640" height=" 360" controls>
-  <source src="../assets/videos/simulated-assembly-line.mp4" type="video/mp4">
+<video class="lazy" width="640" height=" 360" controls>
+  <source data-src="../assets/videos/simulated-assembly-line.mp4"  type="video/mp4">
 </video>
 
 A simulated assembly line consisting of a self-constructed crane, a rotating disk, and a web camera. It was programmed by the group's own Domain-Specific Language (DSL), which generated a client that could execute the program. The client utilized MQTT to communicate with the embedded system.
