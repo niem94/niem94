@@ -1,33 +1,40 @@
-title: Nikolai Emil | Devantler
-author:
-  name: Nikolai Emil Damm
-  email: ned@devantler.com
-description: >-
-  I am an ambitious software engineer with an agile mindset, and the desire to overcome innovative challenges. For that open source is my toolbox 🧰
-timezone: Europe/Copenhagen
-github_username:  devantler
-linkedin_username: nikolai-emil-damm-14a786150
+#-------------------------------
+# General Site Settings
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "http://devantler.com" # The base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: jekyll/minima
-minima:
-  skin: auto
-  social_links:
-    - platform: github
-      user_url: "https://github.com/devantler"
-      title: GitHub
-    - platform: linkedin
-      user_url: "https://www.linkedin.com/in/nikolai-emil-damm-14a786150/"
-      title: LinkedIn
-show_excerpts: false
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:title
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-remote-include
+  - jekyll-paginate
+  - jekyll-sitemap
+  - flexible_include
 
-exclude:
-  - .github/
-  - .vscode/
-  - github-configuration/
-  - projects/
-  - .editorconfig
-  - .gitmodules
+paginate: 8
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+
+
+
+
+
