@@ -24,13 +24,13 @@ menu-settings:
 #-------------------------------
 # Author Settings
 author:
-  name: Nikolai Emil | Devantler
+  name: Nikolai Emil Damm
   avatar: 'assets/images/author.png'
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Nikolai Emil Damm
+  title: Nikolai Emil | Devantler
   description: I am an ambitious software engineer with an agile mindset, and the desire to overcome innovative challenges. For that open source is my toolbox 🧰
   image: 'assets/images/ocean.jpg'
 
