@@ -12,15 +12,15 @@ menu-settings:
     - title: 'Home'
       url: '/'
     - title: 'About Me'
-      url: '/cv/'
+      url: '/cv'
     - title: 'Projects'
-      url: '/projects/'
+      url: '/projects'
     - title: 'libraries'
-      url: '/libraries/'
+      url: '/libraries'
     - title: 'Templates'
-      url: '/templates/'
+      url: '/templates'
     - title: 'Contact Me'
-      url: '/contact/'
+      url: '/contact'
 
 #-------------------------------
 # Author Settings
