@@ -113,9 +113,9 @@ The site is no longer maintained, as it was connected to an Umbraco Heartcore in
 
 These are projects I have completed during my time as a Software Engineering student at the University of Southern Denmark. They are projects that I am proud of, and that I think showcase my skills and dedication to learn and explore new technologies and approaches to solving software engineering problems.
 
-### 🌏 Exploration of state-of-the-art technology, architectures and tools to create future-proof data spaces
+## 🌏 Exploration of state-of-the-art technology, architectures and tools to create future-proof data spaces
 
-#### ⭐️ Graded 12/12 <span style="float:right">10th semester (MSc thesis)</span>
+### ⭐️ Graded 12/12 <span style="float:right">10th semester (MSc thesis)</span>
 
 ![Data Space as a Data Mesh](../assets/images/data-space-as-a-data-mesh.png)
 
@@ -123,17 +123,17 @@ An exploration of whether a data space can be implemented as a data mesh, focusi
 
 If you are interested in reading my thesis, you can find it [here](../assets/pdfs/thesis.pdf).
 
-### 📊 Power Price Assistant
+## 📊 Power Price Assistant
 
-#### ⭐️ Graded 12/12 <span style="float:right">9th semester</span>
+### ⭐️ Graded 12/12 <span style="float:right">9th semester</span>
 
 ![Power Price Assistant](../assets/images/power-price-assistant.png)
 
 A web app that simulates a system that can advise on what electricity provider to choose based on the user's electricity consumption patterns, and priorities.
 
-### 🏗️ Simulated Assembly Line
+## 🏗️ Simulated Assembly Line
 
-#### ⭐️ Graded 12/12 <span style="float:right">8th semester</span>
+### ⭐️ Graded 12/12 <span style="float:right">8th semester</span>
 
 <video class="lazy" width="640" height=" 360" controls>
   <source data-src="../assets/videos/simulated-assembly-line.mp4"  type="video/mp4">
@@ -141,9 +141,9 @@ A web app that simulates a system that can advise on what electricity provider t
 
 A simulated assembly line consisting of a self-constructed crane, a rotating disk, and a web camera. It was programmed by the group's own Domain-Specific Language (DSL), which generated a client that could execute the program. The client utilized MQTT to communicate with the embedded system.
 
-### 🌊 EcoBeach
+## 🌊 EcoBeach
 
-#### ⭐️ Graded 7/12 <span style="float:right">7th semester</span>
+### ⭐️ Graded 7/12 <span style="float:right">7th semester</span>
 
 ![EcoBeach](../assets/images/ecobeach.png)
 
@@ -151,9 +151,9 @@ A big data system that scraped satellite imagery of beach geo-locations from the
 
 You can read the report [here](../assets/pdfs/ecobeach.pdf)
 
-### ⬣ HexUML
+## ⬣ HexUML
 
-#### ⭐️ Graded 12/12 <span style="float:right">6th semester (BSc thesis)</span>
+### ⭐️ Graded 12/12 <span style="float:right">6th semester (BSc thesis)</span>
 
 ![HexUML](../assets/images/hexuml.png)
 
