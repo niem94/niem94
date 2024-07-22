@@ -2,7 +2,7 @@
 # Site Settings
 title: Nikolai Emil | Devantler
 logo: 'assets/images/author.png'
-description: I am an ambitious software engineer with an agile mindset, and the desire to overcome innovative challenges. For that open source is my toolbox 🧰
+description: Nikolai Emil | Devantler - My personal blog and portfolio.
 
 #-------------------------------
 # Navigation Settings
@@ -31,7 +31,7 @@ author:
 # Hero Settings
 hero:
   title: Nikolai Emil Damm
-  description: Commit, Push, Deploy, Repeat
+  description: I am an ambitious software engineer with an agile mindset, and the desire to overcome innovative challenges. For that open source is my toolbox 🧰
   image: 'assets/images/ocean.jpg'
 
 #-------------------------------
