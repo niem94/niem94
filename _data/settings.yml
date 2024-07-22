@@ -52,7 +52,7 @@ disqus-identifier: devantler # Add your shortname for Disqus Comment. For exampl
 
 #-------------------------------
 # Google Analytics
-# google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-MK59Q89KYW # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
