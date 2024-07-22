@@ -2,7 +2,7 @@
 layout: post
 title: MacOS as a Developer Machine (WIP)
 description: Setting up MacOS as a developer machine can be a daunting task. In this post, I will share my learnings and experiences to help you get started.
-image: 'assets/images/macbook.jpg'
+image: 'assets/images/macbook-1.jpg'
 ---
 
 
