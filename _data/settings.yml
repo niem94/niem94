@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Nikolai Emil | Devantler
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: 'assets/images/author.png'
 description: >-
   I am an ambitious software engineer with an agile mindset, and the desire to overcome innovative challenges. For that open source is my toolbox 🧰
 
