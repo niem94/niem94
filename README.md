@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=devantler)
-
 # Hi there 👋🏻
 
 <div align="center">
