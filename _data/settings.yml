@@ -48,8 +48,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-# disqus-identifier: devantler # Add your shortname for Disqus Comment. For example anvodstudio-demo
-
+disqus-identifier: devantler # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 #-------------------------------
 # Google Analytics
