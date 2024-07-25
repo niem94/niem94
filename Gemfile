@@ -6,5 +6,5 @@ gem "jekyll-sitemap"
 gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
-  gem 'jekyll_flexible_include', '~> 2.0.15'
+  gem 'jekyll_flexible_include'
 end
