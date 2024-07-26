@@ -118,7 +118,7 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-sitemap
-  jekyll_flexible_include (~> 2.0.15)
+  jekyll_flexible_include
   kramdown-parser-gfm
 
 BUNDLED WITH
