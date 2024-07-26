@@ -179,11 +179,10 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 ## Live Stats 📊
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="lazy" alt="github-readme-stats-top-langs" align="center" data-src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=aura_dark&langs_count=8&layout=compact&role=OWNER,COLLABORATOR&exclude_repo=software-engineering-f22-shared" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api/top-langs/?username=devantler&theme=aura_dark&langs_count=8&layout=compact&role=OWNER,COLLABORATOR&exclude_repo=software-engineering-f22-shared" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="lazy" alt="github-readme-stats" align="center" data-src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR" src="https://github-readme-stats-pt7yj2vy3-devantler.vercel.app/api?username=devantler&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img class="lazy" alt="github-readme-stats-top-langs" align="center" data-src="https://github-readme-stats-40w2lyed1-devantlers-projects.vercel.app/api/top-langs/?username=devantler&theme=aura_dark&langs_count=20&layout=compact&role=OWNER,COLLABORATOR&exclude_repo=software-engineering-f22-shared" src="https://github-readme-stats-40w2lyed1-devantlers-projects.vercel.app/api/top-langs/?username=devantler&theme=aura_dark&langs_count=10&layout=compact&role=OWNER,COLLABORATOR&exclude_repo=software-engineering-f22-shared" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img class="lazy" alt="github-readme-stats" align="center" data-src="https://github-readme-stats-40w2lyed1-devantlers-projects.vercel.app/api?username=devantler&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR" src="https://github-readme-stats-40w2lyed1-devantlers-projects.vercel.app/api?username=devantler&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR"/>
+</a>
