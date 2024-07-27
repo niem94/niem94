@@ -342,25 +342,25 @@ brew bundle cleanup --force
 
 ## Git, SSH, and GPG Keys
 
-> note "Under construction"
+> warning "Under construction"
 > This section is under construction.
 
 ## Passwords and Secrets
 
-> note "Under construction"
+> warning "Under construction"
 > This section is under construction.
 
 ## Configuring the Terminal
 
-> note "Under construction"
+> warning "Under construction"
 > This section is under construction.
 
 ## Setting Up Your IDE
 
-> note "Under construction"
+> warning "Under construction"
 > This section is under construction.
 
 ## Remote Development
 
-> note "Under construction"
+> warning "Under construction"
 > This section is under construction.
