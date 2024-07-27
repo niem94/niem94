@@ -95,7 +95,7 @@ This will create a Brewfile in your home directory that lists all your installed
 brew bundle install
 ```
 
-> [!NOTE]
+> note "Info"
 > The Brewfile is automatically picked up by MackUp when you run `mackup backup`.
 
 ### Convenience Scripts
@@ -342,25 +342,25 @@ brew bundle cleanup --force
 
 ## Git, SSH, and GPG Keys
 
-> [!NOTE]
+> note "Under construction"
 > This section is under construction.
 
 ## Passwords and Secrets
 
-> [!NOTE]
+> note "Under construction"
 > This section is under construction.
 
 ## Configuring the Terminal
 
-> [!NOTE]
+> note "Under construction"
 > This section is under construction.
 
 ## Setting Up Your IDE
 
-> [!NOTE]
+> note "Under construction"
 > This section is under construction.
 
 ## Remote Development
 
-> [!NOTE]
+> note "Under construction"
 > This section is under construction.
