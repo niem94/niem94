@@ -27,7 +27,7 @@ There are a few options available for managing packages on MacOS. Notable packag
 - [Homebrew](https://brew.sh)
 - [MacPorts](https://www.macports.org)
 
-For no particular reason, I went with Homebrew, and I have been using it extensively, for a few years now. In my experience, Homebrew has been reliable and easy to use, and I have yet to encounter that it is missing a feature that I need, or that it is not working as expected.
+Due to Homebrew seemingly having the most popularity and the largest community, I went with Homebrew, and I have been using it extensively, for a few years now. In my experience, Homebrew has been reliable and easy to use, and I have yet to encounter that it is missing a feature that I need, or that it is not working as expected.
 
 ### Installing and Using Homebrew
 
@@ -37,7 +37,7 @@ Installing Homebrew is straightforward, and is well documented on the [Homebrew 
 brew install git
 ```
 
-It can also be used to install applications, such as Visual Studio Code:
+It can also be used to install applications (Homebrew calls these casks), such as Visual Studio Code:
 
 ```bash
 brew install --cask visual-studio-code
@@ -58,9 +58,9 @@ Many applications and packages require storing configuration files in your home 
 
 When you use valuable time configuring, for example, your Git settings, you probably want to keep these settings when you switch to a new machine. This is where dotfiles come in handy. By storing your dotfiles in a version-controlled repository, you can easily sync your configuration across multiple machines.
 
-However keeping stuff in sync is no simple task, and there are a multitude of ways to do it. I have personally tried a few different approaches, that varied in complexity and flexibility. It was not untill I discovered [MackUp](https://github.com/lra/mackup) that I found a solution that worked well for me.
+However keeping stuff in sync is no simple task, and there are a multitude of ways to do it. I have personally tried a few different approaches, that varied in complexity and flexibility. It was not until I discovered [MackUp](https://github.com/lra/mackup) that I found a solution that worked well for me.
 
-MackUp is a simple utility that, when executed, will symlink your dotfiles and system configuration to a storage provider of your choice. It supports a variety of storage providers, such as Dropbox, Google Drive, and OneDrive, and Git. As I prefer to keep all my stuff in Git, I of course use the Git storage provider.
+MackUp is a simple utility that, when executed, will symlink your dotfiles and system configuration to a storage provider of your choice. It supports a variety of storage providers, such as Dropbox, Google Drive, OneDrive, or Git. As I prefer to keep most of my stuff in Git, I of course use the Git storage provider. As such the following examples will also assume that Git is used as the storage provider.
 
 ### Installing and Using MackUp
 
@@ -78,11 +78,11 @@ engine = git
 directory = ~/dotfiles
 ```
 
-This configuration tells MackUp to store your dotfiles in a Git repository located at `~/dotfiles`. You can then run `mackup backup` to symlink your dotfiles to the Git repository. When you switch to a new machine, you can run `mackup restore` to restore your dotfiles.
+This configuration tells MackUp to store dotfiles in a Git repository located at `~/dotfiles`. You can then run `mackup backup` to symlink your dotfiles to the Git repository. When you switch to a new machine, you can run `mackup restore` to restore your dotfiles.
 
 ### Storing Brew Bundles in MackUp
 
-In addition to storing your dotfiles, you can also store your Homebrew packages and applications in MackUp. This can be done by creating a Brewfile, which lists all the packages and applications you want to install. You can create a Brewfile of your installed packages and applications by running:
+In addition to storing your dotfiles, you can also store your Homebrew packages and applications in MackUp. This can be done by creating a Brewfile, which can be used to snapshot all the packages and applications you have installed on a machine. You can create a Brewfile of your installed packages and applications by running:
 
 ```bash
 brew bundle dump
