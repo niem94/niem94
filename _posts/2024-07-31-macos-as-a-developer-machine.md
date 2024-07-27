@@ -16,6 +16,7 @@ In this post, I will share my experience setting up MacOS as a developer machine
   - [Convenience Scripts](#convenience-scripts)
   - [Benefits of Using MackUp](#benefits-of-using-mackup)
 - [Git, SSH, and GPG Keys](#git-ssh-and-gpg-keys)
+- [Passwords and Secrets](#passwords-and-secrets)
 - [Configuring the Terminal](#configuring-the-terminal)
 - [Setting Up Your IDE](#setting-up-your-ide)
 - [Remote Development](#remote-development)
@@ -340,6 +341,11 @@ brew bundle cleanup --force
 - Supports restoring dotfiles and system configuration
 
 ## Git, SSH, and GPG Keys
+
+> [!NOTE]
+> This section is under construction.
+
+## Passwords and Secrets
 
 > [!NOTE]
 > This section is under construction.
