@@ -95,7 +95,7 @@ This will create a Brewfile in your home directory that lists all your installed
 brew bundle install
 ```
 
-> note "Info"
+> note ""
 > The Brewfile is automatically picked up by MackUp when you run `mackup backup`.
 
 ### Convenience Scripts
