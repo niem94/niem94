@@ -181,7 +181,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github-readme-stats-top-langs" align="center" src="https://github-readme-stats-40w2lyed1-devantlers-projects.vercel.app/api/top-langs/?username=devantler&theme=aura_dark&langs_count=20&layout=compact&role=OWNER,COLLABORATOR&exclude_repo=software-engineering-f22-shared" />
+    <img alt="github-readme-stats-top-langs" align="center" src="https://github-readme-stats-40w2lyed1-devantlers-projects.vercel.app/api/top-langs/?username=devantler&theme=aura_dark&langs_count=20&layout=compact&role=OWNER,COLLABORATOR&exclude_repo=software-engineering-f22-shared" loading="lazy" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="github-readme-stats" align="center" src="https://github-readme-stats-40w2lyed1-devantlers-projects.vercel.app/api?username=devantler&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR" loading="lazy"/>
