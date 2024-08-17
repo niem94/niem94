@@ -165,9 +165,9 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 | [🌐 .NET Kubernetes Cluster Provisioner](https://github.com/devantler/dotnet-kubernetes-cluster-provisioner)   | _A description will be added soon..._ | In development |
 | [🔓 .NET SOPS Manager](https://github.com/devantler/dotnet-sops-manager)                                       | _A description will be added soon..._ | In development |
 | [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)                                 | _A description will be added soon..._ | Active         |
-| [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                                       | _A description will be added soon..._ | In development |
-| [▶️ .NET CLI Runner](https://github.com/devantler/dotnet-cli-runner)                                           | _A description will be added soon..._ | In development |
-| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                                                 | _A description will be added soon..._ | In development |
+| [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                                       | _A description will be added soon..._ | Active         |
+| [▶️ .NET CLI Runner](https://github.com/devantler/dotnet-cli-runner)                                           | _A description will be added soon..._ | Active         |
+| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                                                 | _A description will be added soon..._ | Active         |
 | [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                                               | _A description will be added soon..._ | In development |
 | [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                                  | _A description will be added soon..._ | In development |
 | [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                                                 | _A description will be added soon..._ | In development |
