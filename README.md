@@ -158,18 +158,23 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 ## [Libraries 📦](https://devantler.com/libraries)
 
-| Library Name                                                                             | Description                                                          | State          |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------- |
-| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                           | A simple .NET library that embeds the Age CLI.                       | In development |
-| [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                         | A simple .NET library that embeds the Flux CLI.                      | In development |
-| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                            | A simple .NET library that embeds the K3d CLI.                       | In development |
-| [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                           | A simple .NET library that embeds the K9s CLI.                       | In development |
-| [⚗️ .NET Kind CLI](https://github.com/devantler/dotnet-kind-cli)                         | A simple .NET library that embeds the Kind CLI.                      | In development |
-| [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)           | A simple .NET library that embeds the Kubeconform CLI.               | In development |
-| [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                | A simple .NET library that embeds the Kustomize CLI.                 | In development |
-| [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                         | A simple .NET library that embeds the SOPS CLI                       | In development |
-| [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)           | A simple template engine for .NET.                                   | Active         |
-| [☸️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator) | A simple code generator that can generate Kubernetes manifest files. | In development |
+| Library Name                                                                                                   | Description                           | State          |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------- |
+| [⚙️ .NET Kubernetes Resource Generator](https://github.com/devantler/dotnet-kubernetes-resource-generator)     | _A description will be added soon..._ | In development |
+| [🛠️ .NET Kubernetes Resource Provisioner](https://github.com/devantler/dotnet-kubernetes-resource-provisioner) | _A description will be added soon..._ | In development |
+| [🌐 .NET Kubernetes Cluster Provisioner](https://github.com/devantler/dotnet-kubernetes-cluster-provisioner)   | _A description will be added soon..._ | In development |
+| [🔓 .NET SOPS Manager](https://github.com/devantler/dotnet-sops-manager)                                       | _A description will be added soon..._ | In development |
+| [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)                                 | _A description will be added soon..._ | Active         |
+| [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                                       | _A description will be added soon..._ | In development |
+| [▶️ .NET CLI Runner](https://github.com/devantler/dotnet-cli-runner)                                           | _A description will be added soon..._ | In development |
+| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                                                 | _A description will be added soon..._ | In development |
+| [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                                               | _A description will be added soon..._ | In development |
+| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                                  | _A description will be added soon..._ | In development |
+| [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                                                 | _A description will be added soon..._ | In development |
+| [⚗️ .NET Kind CLI](https://github.com/devantler/dotnet-kind-cli)                                               | _A description will be added soon..._ | In development |
+| [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)                                 | _A description will be added soon..._ | In development |
+| [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                                      | _A description will be added soon..._ | In development |
+| [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                                               | _A description will be added soon..._ | In development |
 
 ## [Templates 📁](https://devantler.com/templates)
 
