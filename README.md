@@ -152,9 +152,9 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.                                                                                                                | Active  |
 | [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.                 | Active  |
-| [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                                               | Active  |
 | [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. | On Hold |
 | [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus)     | A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX styled scientific papers with Markdown.                                                | On Hold |
+| [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                                               | Archived  |
 
 ## [Libraries 📦](https://devantler.com/libraries)
 

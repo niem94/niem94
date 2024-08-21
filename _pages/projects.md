@@ -61,16 +61,6 @@ I use this cluster to learn and experiment with new technologies and approaches 
 
 I also plan to use this cluster to run services that I use in my day-to-day life, for entertainment, personal projects, or self-hosted services to cut costs and own my own data.
 
-## [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Open Container Initiative](https://img.shields.io/badge/Open%20Containers%20Initiative-262261.svg?style=for-the-badge&logo=Open-Containers-Initiative&logoColor=white)
-
-![OCI Artifacts](../assets/images/oci-artifacts.webp)
-
-A spin-off project from my Homelab project, that simplifies my GitOps deployments by distributing my Kustomize and Flux HelmRelease components through OCI. Doing this allows me to deploy my applications in a single line of code, and still have the flexibility of regular Kustomize and Helm charts. The approach was inspired by shared libraries in regular programming languages, and I felt that Helm charts and Kustomize components required way too much duplication of code when deploying in multiple environments.
-
-Most of the OCI Artifacts are dependent on Flux Kustomizations, and they use Flux Post Build Variables to injects values into the components. This allows me to expose values for the component, that a user can provide when deploying the component in typical settings.
-
-I strive to keep the OCI Artifacts as simple as possible, such that they are very close to the original Kustomize and Helm charts default values. But in many cases, Helm Chart maintainers do not provide default values that enable the component to be deployed out-of-the-box. In those cases, I enforce some post-build variables to be set to ensure that the component can be deployed.
-
 ---
 
 # Inactive Projects
@@ -100,6 +90,16 @@ Pandoc Plus was developed as a side project to my master thesis, which was also 
 # Completed Projects
 
 These are projects that I have completed, and that I am no longer actively maintaining. These are projects that for one or another reason have a stopping point, as they were projects built for a specific purpose that does not require maintenance, or because I have actively abandoned them.
+
+## [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Open Container Initiative](https://img.shields.io/badge/Open%20Containers%20Initiative-262261.svg?style=for-the-badge&logo=Open-Containers-Initiative&logoColor=white)
+
+![OCI Artifacts](../assets/images/oci-artifacts.webp)
+
+A spin-off project from my Homelab project, that simplifies my GitOps deployments by distributing my Kustomize and Flux HelmRelease components through OCI. Doing this allows me to deploy my applications in a single line of code, and still have the flexibility of regular Kustomize and Helm charts. The approach was inspired by shared libraries in regular programming languages, and I felt that Helm charts and Kustomize components required way too much duplication of code when deploying in multiple environments.
+
+Most of the OCI Artifacts are dependent on Flux Kustomizations, and they use Flux Post Build Variables to injects values into the components. This allows me to expose values for the component, that a user can provide when deploying the component in typical settings.
+
+I strive to keep the OCI Artifacts as simple as possible, such that they are very close to the original Kustomize and Helm charts default values. But in many cases, Helm Chart maintainers do not provide default values that enable the component to be deployed out-of-the-box. In those cases, I enforce some post-build variables to be set to ensure that the component can be deployed.
 
 ## [🤖 Star Wars Site](https://github.com/devantler/star-wars-site) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1.svg?style=for-the-badge&logo=Umbraco&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-00CA8E.svg?style=for-the-badge&logo=Nomad&logoColor=white)
 
