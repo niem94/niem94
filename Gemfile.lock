@@ -24,6 +24,7 @@ GEM
     ffi (1.17.0-x86_64-linux-gnu)
     ffi (1.17.0-x86_64-linux-musl)
     forwardable-extended (2.6.0)
+    htmlentities (4.3.4)
     http_parser.rb (0.8.0)
     i18n (1.14.5)
       concurrent-ruby (~> 1.0)
@@ -55,7 +56,8 @@ GEM
       jekyll_from_to_until
       jekyll_plugin_support (>= 0.8.4)
       rugged
-    jekyll_from_to_until (1.0.4)
+    jekyll_from_to_until (1.0.5)
+      htmlentities
       jekyll (>= 3.5.0)
       jekyll_plugin_logger
     jekyll_plugin_logger (2.1.2)
