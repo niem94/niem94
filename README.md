@@ -148,33 +148,32 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 ## [Projects 📽️](https://devantler.com/projects)
 
-| Project Name                                                   | Description                                                                                                                                                                       | State   |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.                                                                                                                | Active  |
-| [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.                 | Active  |
-| [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. | On Hold |
-| [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus)     | A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX styled scientific papers with Markdown.                                                | On Hold |
-| [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                                               | Archived  |
+| Project Name                                                   | Description                                                                                                                                                                       | State    |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.                                                                                                                | Active   |
+| [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.                 | Active   |
+| [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. | On Hold  |
+| [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus)     | A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX styled scientific papers with Markdown.                                                | On Hold  |
+| [🚚 OCI Artifacts](https://github.com/devantler/oci-artifacts) | Popular Kustomize and Flux HelmRelease components that are distributed through OCI.                                                                                               | Archived |
 
 ## [Libraries 📦](https://devantler.com/libraries)
 
-| Library Name                                                                                                   | Description                           | State          |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------- |
-| [⚙️ .NET Kubernetes Resource Generator](https://github.com/devantler/dotnet-kubernetes-resource-generator)     | _A description will be added soon..._ | In development |
-| [🛠️ .NET Kubernetes Resource Provisioner](https://github.com/devantler/dotnet-kubernetes-resource-provisioner) | _A description will be added soon..._ | In development |
-| [🌐 .NET Kubernetes Cluster Provisioner](https://github.com/devantler/dotnet-kubernetes-cluster-provisioner)   | _A description will be added soon..._ | In development |
-| [🔓 .NET SOPS Manager](https://github.com/devantler/dotnet-sops-manager)                                       | _A description will be added soon..._ | In development |
-| [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)                                 | _A description will be added soon..._ | Active         |
-| [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                                       | _A description will be added soon..._ | Active         |
-| [▶️ .NET CLI Runner](https://github.com/devantler/dotnet-cli-runner)                                           | _A description will be added soon..._ | Active         |
-| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                                                 | _A description will be added soon..._ | Active         |
-| [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                                               | _A description will be added soon..._ | In development |
-| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                                  | _A description will be added soon..._ | In development |
-| [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                                                 | _A description will be added soon..._ | In development |
-| [⚗️ .NET Kind CLI](https://github.com/devantler/dotnet-kind-cli)                                               | _A description will be added soon..._ | In development |
-| [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)                                 | _A description will be added soon..._ | In development |
-| [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                                      | _A description will be added soon..._ | In development |
-| [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                                               | _A description will be added soon..._ | In development |
+| Library Name                                                                                 | Description                                                                               | State          |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------- |
+| [▶️ .NET CLI Runner](https://github.com/devantler/dotnet-cli-runner)                         | A simple .NET library to run CLI commands from .NET code                                  | Active         |
+| [⚗️ .NET Kind CLI](https://github.com/devantler/dotnet-kind-cli)                             | _A description will be added soon..._                                                     | In development |
+| [⚙️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator)     | A simple .NET library for generating Kubernetes resources.                                | Active         |
+| [🌐 .NET Kubernetes Provisioner](https://github.com/devantler/dotnet-kubernetes-provisioner) | _A description will be added soon..._                                                     | In development |
+| [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                               | _A description will be added soon..._                                                     | In development |
+| [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)               | A simple .NET library to genarate files from .sbn templates                               | Active         |
+| [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                             | _A description will be added soon..._                                                     | In development |
+| [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)               | _A description will be added soon..._                                                     | In development |
+| [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                             | _A description will be added soon..._                                                     | In development |
+| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                               | A simple .NET library that embeds and provides an API for the age and age-keygen binaries | Active         |
+| [🔓 .NET Key Manager](https://github.com/devantler/dotnet-key-manager)                       | A simple .NET library to manage asymmetric keys                                           | Active         |
+| [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                     | A simple .NET library to provide intelligent models for assymetric keys                   | Active         |
+| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                | _A description will be added soon..._                                                     | In development |
+| [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                    | _A description will be added soon..._                                                     | In development |
 
 ## [Templates 📁](https://devantler.com/templates)
 
