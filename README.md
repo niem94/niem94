@@ -66,11 +66,11 @@ Working as a software engineer at Energinet, I'm part of the Substation Data tea
 
 From September 2024 to June 2025 I was lent out to a platform engineering team, to help scope, design, and implement a new shared platform for the organization.
 
-- Developing and maintaining K8s infrastructure and platforms.
+- Developing and maintaining Kubernetes platforms.
 - Developing and maintaining GitOps tooling.
 - Developing and maintaining CI/CD pipelines.
 - Developing and maintaining IT and OT integrations.
-- Developing and maintaining on-prem racks.
+- Operating and monitoring on-prem servers.
 - Facilitating and fostering an open-source community within the organization.
 - Hosting and facilitating meetups, hackathons, and workshops.
 - Promoting modern software development practices like GitHub Flow, DevOps, cloud-native, and open source practices.
