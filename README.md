@@ -58,11 +58,11 @@ public class DevProfile {
 
 Years of experience in software development have given me a solid foundation in modern software development practices and technologies. I have worked on a wide range of projects, from developing and maintaining e-commerce platforms to creating and operating cloud-native solutions. I have a strong passion for learning and sharing knowledge, and I'm always looking for new challenges and opportunities to grow as a software engineer. I have a sharp eye for detail and a strong focus on quality and simplicity in everything I do. I love working with people who share my passion for software development and who are not afraid to challenge the status quo.
 
-### Software Developer and Open Source Community Facilitator <span style="float:right">August 2023 - Present</span>
+### Software Engineer and Open Source Community Facilitator <span style="float:right">August 2023 - Present</span>
 
 _Energinet, Fredericia_
 
-Working as a software developer at Energinet, I'm part of the Substation Data team in the Innovation department. As a member of the Substation Data team my primary focus is on platform engineering and IT/OT convergence. The team's vision is to modernize the IT/OT landscape by providing E2E data solutions that enable other teams to scale and innovate their business cases.
+Working as a software engineer at Energinet, I'm part of the Substation Data team in the Innovation department. As a member of the Substation Data team my primary focus is on platform engineering and IT/OT convergence. The team's vision is to modernize the IT/OT landscape by providing E2E data solutions that enable other teams to scale and innovate their business cases.
 
 From September 2024 to June 2025 I was lent out to a platform engineering team, to help scope, design, and implement a new shared platform for the organization.
 
