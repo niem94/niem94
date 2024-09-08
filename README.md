@@ -64,7 +64,7 @@ _Energinet, Fredericia_
 
 Working as a software developer at Energinet, I'm part of the Substation Data team in the Innovation department. As a member of the Substation Data team my primary focus is on platform engineering and IT/OT convergence. The team's vision is to modernize the IT/OT landscape by providing E2E data solutions that enable other teams to scale and innovate their business cases.
 
-From September 2024 to June 2025 I was lent out to a platform engineering team, to help scope, design, and implement a new shared platform for the organization. The platform was designed to be a cloud-native, GitOps-enabled, and self-service platform that would enable other teams to deploy and operate their services in a standardized way.
+From September 2024 to June 2025 I was lent out to a platform engineering team, to help scope, design, and implement a new shared platform for the organization.
 
 - Developing and maintaining K8s infrastructure and platforms.
 - Developing and maintaining GitOps tooling.
