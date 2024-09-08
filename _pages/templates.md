@@ -9,4 +9,11 @@ image: "assets/images/work.jpg"
 
 ## [📁 .NET Template](https://github.com/devantler/dotnet-template)
 
-*A description will be added soon...*
+A simple template for creating .NET projects.
+
+- **CI/CD pipelines with GitHub Actions**
+- **Publish libraries to GHCR and NuGet**
+- **Test projects and collect coverage with Codecov**
+- **EditorConfig with preferred .NET code style**
+- **Dependency management with Renovate and Dependabot**
+- **No enforced sln structure**
