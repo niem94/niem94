@@ -34,7 +34,7 @@ public class DevProfile {
   public string[] Skills { get; set; } = {
     "C#/.NET",
     "Go",
-    "K8s",
+    "Kubernetes",
     "Docker",
     "Infrastructure as Code",
     "CNCF Tools and Technologies",
@@ -154,7 +154,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 | Project Name                                                   | Description                                                                                                                                                                       | State    |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled K8s clusters in Docker.                                                                                                                | Active   |
+| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled Kubernetes clusters in Docker.                                                                                                                | Active   |
 | [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.                 | Active   |
 | [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. | On Hold  |
 | [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus)     | A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX styled scientific papers with Markdown.                                                | On Hold  |
