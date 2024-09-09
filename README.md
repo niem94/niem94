@@ -164,7 +164,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 | Library Name                                                                                 | Description                                                                               | State          |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------- |
-| [⚙️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator)     | A simple .NET library for generating Kubernetes resources.                                | Active         |
+| [☸️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator)     | A simple .NET library for generating Kubernetes resources.                                | Active         |
 | [🌐 .NET Kubernetes Provisioner](https://github.com/devantler/dotnet-kubernetes-provisioner) | _A description will be added soon..._                                                     | In development |
 | [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)               | A simple .NET library to genarate files from .sbn templates                               | Active         |
 | [🔓 .NET Key Manager](https://github.com/devantler/dotnet-key-manager)                       | A simple .NET library to manage asymmetric keys                                           | Active         |
