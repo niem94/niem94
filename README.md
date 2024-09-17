@@ -1,4 +1,4 @@
-# Hi there 👋🏻
+# Hi there 👋🏻☸️
 
 <div align="center">
   <img class="lazy" src="assets/images/profile.png" data-src="assets/images/profile.png" alt="Me summer 2024" width="400">
