@@ -154,7 +154,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 | Project Name                                                   | Description                                                                                                                                                                       | State    |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled Kubernetes clusters in Docker.                                                                                                                | Active   |
+| [🛥️🐳 KSail](https://github.com/devantler/ksail)               | A CLI tool for provisioning GitOps-enabled Kubernetes clusters in Docker.                                                                                                         | Active   |
 | [🏠 Homelab](https://github.com/devantler/homelab)             | A Flux GitOps-based Kubernetes cluster that I run on a Mac Mini and a set of RPIs in my home. It demonstrates a dev-friendly approach to working with Kubernetes.                 | Active   |
 | [⬡ Data Product](https://github.com/devantler/data-product)    | A data product inspired by the Data Mesh architectural pattern, and the Data Product concept from the book "Data Mesh: Delivering Data-Driven Value at Scale" by Zhamak Dehghani. | On Hold  |
 | [✍🏻 Pandoc Plus](https://github.com/devantler/pandoc-plus)     | A docker image that packages pandoc with LaTeX, PlantUML, and lua filters, to create LaTeX styled scientific papers with Markdown.                                                | On Hold  |
@@ -176,7 +176,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 | [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)               | _A description will be added soon..._                                                     | In development |
 | [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                             | _A description will be added soon..._                                                     | In development |
 | [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                               | A simple .NET library that embeds and provides an API for the age and age-keygen binaries | Active         |
-| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                | _A description will be added soon..._                                                     | In development |
+| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                | A simple .NET library that embeds and provides an API for the k3d binary                  | Active         |
 | [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                    | _A description will be added soon..._                                                     | In development |
 
 ## [Templates 📁](https://devantler.com/templates)
