@@ -54,6 +54,17 @@ public class DevProfile {
 }
 ```
 
+## Talks and Presentations 🎤
+
+### KSail - a Kubernetes SDK for local GitOps development and CI <span style="float:right">KCD Denmark 2024</span>
+
+![KSail - a Kubernetes SDK for local GitOps development and CI](assets/images/talks/kcd-denmark-2024-ksail.jpeg)
+
+This talk presents KSail to the world. The talk demonstrates the core capabilities of KSail, and how it enables developers to shift-left Kubernetes operation and development practices. You will see first-hand how KSail can simplify and empower local development, and CI workflows - all while engaging in a relatable story of a startup. The talk is a mix conceptual explanations and live demos.
+As an outro the roadmap for KSail is presented along with an open invitation to the community to contribute to the project.
+
+_Links to YouTube video and slides will be added a few days after the talk... Stay tuned 👀_
+
 ## Professional Experience 💼
 
 Years of experience in software development have given me a solid foundation in modern software development practices and technologies. I have worked on a wide range of projects, from developing and maintaining e-commerce platforms to creating and operating cloud-native solutions. I have a strong passion for learning and sharing knowledge, and I'm always looking for new challenges and opportunities to grow as a software engineer. I have a sharp eye for detail and a strong focus on quality and simplicity in everything I do. I love working with people who share my passion for software development and who are not afraid to challenge the status quo.
