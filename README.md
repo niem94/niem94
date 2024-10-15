@@ -58,7 +58,7 @@ public class DevProfile {
 
 ### KSail - a Kubernetes SDK for local GitOps development and CI <span style="float:right">KCD Denmark 2024</span>
 
-<div align="center">
+<div>
   <img class="lazy" src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" data-src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" alt="KSail - a Kubernetes SDK for local GitOps development and CI" width="400">
 </div>
 
