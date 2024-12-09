@@ -58,7 +58,7 @@ public class DevProfile {
 
 ### KSail - a Kubernetes SDK for local GitOps development and CI <span style="float:right">KCD Denmark 2024</span>
 
-<div>
+<div align="center">
   <img class="lazy" src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" data-src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" alt="KSail - a Kubernetes SDK for local GitOps development and CI" width="400">
 </div>
 
@@ -71,11 +71,27 @@ _Links to a YouTube video and slides will be added a few days after the talk... 
 
 Years of experience in software development have given me a solid foundation in modern software development practices and technologies. I have worked on a wide range of projects, from developing and maintaining e-commerce platforms to creating and operating cloud-native solutions. I have a strong passion for learning and sharing knowledge, and I'm always looking for new challenges and opportunities to grow as a software engineer. I have a sharp eye for detail and a strong focus on quality and simplicity in everything I do. I love working with people who share my passion for software development and who are not afraid to challenge the status quo.
 
-### Software Engineer and Open Source Community Facilitator <span style="float:right">August 2023 - Present</span>
+### Platform Engineer and Open Source Community Facilitator <span style="float:right">November 2024 - Present</span>
 
-_Energinet, Fredericia_
+_Energinet, Fredericia - Consultant_
 
-Working as a software engineer at Energinet, I'm part of the Substation Data team in the Innovation department. As a member of the Substation Data team my primary focus is on platform engineering and IT/OT convergence. The team's vision is to modernize the IT/OT landscape by providing E2E data solutions that enable other teams to scale and innovate their business cases.
+Working as a Consultant at Energinet, I'm part of a Platform team in the Infrastructure and Platforms department. As a member of the Platform team my primary focus is on platform engineering. The team's vision provide a Kubernetes platform to create and manage single-tenant and multi-tenant Kubernetes clusters for the organization. The team is very focused on building a good user experience for the platform users, while ensuring that the platform is reliable and scalable.
+
+- Developing and maintaining Kubernetes platforms.
+- Developing and maintaining different tenancy models.
+- Developing and maintaining self-service portals.
+- Developing and maintaining GitOps tooling.
+- Developing and maintaining CI/CD pipelines.
+- Operating and monitoring on-prem servers.
+- Facilitating and fostering an open-source community within the organization.
+- Hosting and facilitating meetups, hackathons, and workshops.
+- Promoting modern software development practices like GitHub Flow, DevOps, cloud-native, and open source practices.
+
+### Software Engineer and Open Source Community Facilitator <span style="float:right">August 2023 - November 2024</span>
+
+_Energinet, Fredericia - Junior Consultant_
+
+Working as a Junior Consultant at Energinet, I'm part of the Substation Data team in the Innovation department. As a member of the Substation Data team my primary focus is on platform engineering and IT/OT convergence. The team's vision is to modernize the IT/OT landscape by providing E2E data solutions that enable other teams to scale and innovate their business cases.
 
 From September 2024 to June 2025 I was lent out to a platform engineering team, to help scope, design, and implement a new shared Kubernetes platform for the organization.
 
@@ -161,7 +177,10 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 - [Credly Badges](https://www.credly.com/users/nikolai-emil-damm/badges)
 
-![Cilium: Discovery Platform Engineer](assets/images/badges/cilium-discovery-platform-engineer.png)
+<div align="left">
+  <img src="assets/images/badges/speaker-kcd-denmark-2024.png" alt="KCD 2024 Speaker" width="172" height="172">
+  <img src="assets/images/badges/cilium-discovery-platform-engineer.png" alt="Cilium: Discovery Platform Engineer" width="172" height="172">
+</div>
 
 ## [Projects 📽️](https://devantler.com/projects)
 
@@ -180,7 +199,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 | [☸️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator)                 | A simple .NET library for generating Kubernetes resources.                                | Active         |
 | [🌐 .NET Kubernetes Provisioner](https://github.com/devantler/dotnet-kubernetes-provisioner)             | A simple .NET library for provisioning Kubernetes.                                        | Active         |
 | [✅ .NET Kubernetes Validator](https://github.com/devantler/dotnet-kubernetes-validator)                 | A simple .NET library for running client-side and server-side validations on Kubernetes   | Active         |
-| [🐳 .NET Container Engine Provisioner](https://github.com/devantler/dotnet-container-engine-provisioner) | A simple .NET library for provisioning resources to container engines.                    | Active |
+| [🐳 .NET Container Engine Provisioner](https://github.com/devantler/dotnet-container-engine-provisioner) | A simple .NET library for provisioning resources to container engines.                    | Active         |
 | [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)                           | A simple .NET library to genarate files from .sbn templates                               | Active         |
 | [🔓 .NET Key Manager](https://github.com/devantler/dotnet-key-manager)                                   | A simple .NET library to manage asymmetric keys                                           | Active         |
 | [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                                 | A simple .NET library to provide intelligent models for assymetric keys                   | Active         |
