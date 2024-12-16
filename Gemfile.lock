@@ -56,7 +56,7 @@ GEM
       jekyll_from_to_until
       jekyll_plugin_support (>= 0.8.4)
       rugged
-    jekyll_from_to_until (1.0.5)
+    jekyll_from_to_until (1.0.6)
       htmlentities
       jekyll (>= 3.5.0)
       jekyll_plugin_logger
