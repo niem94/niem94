@@ -176,12 +176,20 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 ## Achievements
 
-- [Credly Badges](https://www.credly.com/users/nikolai-emil-damm/badges)
+### [Credly Badges](https://www.credly.com/users/nikolai-emil-damm/badges)
 
 <div align="left">
-  <img src="assets/images/badges/speaker-kcd-denmark-2024.png" alt="KCD 2024 Speaker" width="172" height="172">
-  <img src="assets/images/badges/cilium-discovery-platform-engineer.png" alt="Cilium: Discovery Platform Engineer" width="172" height="172">
+  <img src="assets/images/badges/speaker-kcd-denmark-2024.png" data-src="assets/images/badges/speaker-kcd-denmark-2024.png" alt="KCD 2024 Speaker" width="172" height="172">
+  <img src="assets/images/badges/cilium-discovery-platform-engineer.png" data-src="assets/images/badges/cilium-discovery-platform-engineer.png" alt="Cilium: Discovery Platform Engineer" width="172" height="172">
 </div>
+
+### Course Certificates
+
+<object data="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf" type="application/pdf" width="100%" height="100%">
+    <embed src="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf" data="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## [Projects 📽️](https://devantler.com/projects)
 
