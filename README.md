@@ -20,7 +20,7 @@
 >
 > **Pronouns**: He/Him ♂
 >
-> **Personal Interests**: Socializing, Crossfit, Running, Gaming, Technology, Music 🏃🏻🎮📱🎧
+> **Personal Interests**: Socializing, CrossFit, Running, Gaming, Technology, Music 🏃🏻🎮📱🎧
 >
 > **Education**: MSc in Software Engineering 🎓
 >
