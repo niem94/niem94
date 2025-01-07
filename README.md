@@ -185,11 +185,9 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 ### Course Certificates
 
-<object data="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf" type="application/pdf" width="100%" height="100%">
-    <embed src="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf" data="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<div align="left">
+  <img src="assets/images/courses/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.png" data-src="assets/images/courses/kodecloud-kubernetes-for-the-absolute-beginners-course-completion-certificate.png" alt="KodeKloud: Kubernetes for the Absolute Beginners" width="100%">
+</div>
 
 ## [Projects 📽️](https://devantler.com/projects)
 
