@@ -65,8 +65,9 @@ public class DevProfile {
   </a>
 </div>
 
-This talk presents KSail to the world. The talk demonstrates the core capabilities of KSail, and how it enables developers to shift-left Kubernetes operation and development practices. You will see first-hand how KSail can simplify and empower local development, and CI workflows - all while engaging in a relatable story of a startup. The talk is a mix conceptual explanations and live demos.
-As an outro the roadmap for KSail is presented along with an open invitation to the community to contribute to the project.
+This talk presents KSail to the world. The talk demonstrates the core capabilities of KSail, and how it enables developers to shift-left Kubernetes operation and development practices. You will see first-hand how KSail can simplify and empower local development, and CI workflows. The talk is a mix conceptual explanations and live demos.
+
+The talk also prestens the roadmap for KSail along with an open invitation to the community to contribute to the project.
 
 ## Professional Experience 💼
 
