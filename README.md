@@ -59,8 +59,10 @@ public class DevProfile {
 ### KSail - a Kubernetes SDK for local GitOps development and CI <span style="float:right">KCD Denmark 2024</span>
 
 <div align="center">
-  <a href="https://youtu.be/Q-Hfn_-B7p8?si=2Uec_kld--fNw3gm" target="_blank"><img class="lazy" src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" data-src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" alt="KSail - a Kubernetes SDK for local GitOps development and CI" width="400"><br>
-  🎥 Watch the talk! 🎥</a>
+  <a href="https://youtu.be/Q-Hfn_-B7p8?si=2Uec_kld--fNw3gm" target="_blank" style="display: block; margin: 0 auto;">
+    <img class="lazy" src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" data-src="assets/images/talks/kcd-denmark-2024-ksail.jpeg" alt="KSail - a Kubernetes SDK for local GitOps development and CI" width="400"><br>
+    🎥 Watch the talk! 🎥
+  </a>
 </div>
 
 This talk presents KSail to the world. The talk demonstrates the core capabilities of KSail, and how it enables developers to shift-left Kubernetes operation and development practices. You will see first-hand how KSail can simplify and empower local development, and CI workflows - all while engaging in a relatable story of a startup. The talk is a mix conceptual explanations and live demos.
