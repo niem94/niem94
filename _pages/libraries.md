@@ -97,6 +97,8 @@ A simple .NET library that embeds and provides an API for the Kind CLI.
 
 A simple .NET library that embeds and provides an API for the Kubeconform CLI.
 
+## [🔧 .NET Kubectl CLI](htt
+
 ## [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)
 
 A simple .NET library that embeds and provides an API for the Kustomize CLI.

@@ -208,6 +208,7 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 | [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                                           | A simple .NET library that embeds and provides an API for the k9s binary                  | Active |
 | [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                                         | A simple .NET library that embeds and provides an API for the flux binary                 | Active |
 | [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)                           | A simple .NET library that embeds and provides an API for the kubeconform binary          | Active |
+| [🔧 .NET Kubectl CLI](https://github.com/devantler/dotnet-kubectl-cli)                                   | A simple .NET library that embeds and provides an API for the kubectl binary              | Active |
 | [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                                         | A simple .NET library that embeds and provides an API for the sops binary                 | Active |
 | [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                                           | A simple .NET library that embeds and provides an API for the age and age-keygen binaries | Active |
 | [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                            | A simple .NET library that embeds and provides an API for the k3d binary                  | Active |
