@@ -194,24 +194,24 @@ Working as a student software developer at GF Forsikring, I was part of the deve
 
 ## [Libraries 📦](https://devantler.com/libraries)
 
-| Library Name                                                                                             | Description                                                                               | State          |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------- |
-| [☸️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator)                 | A simple .NET library for generating Kubernetes resources.                                | Active         |
-| [🌐 .NET Kubernetes Provisioner](https://github.com/devantler/dotnet-kubernetes-provisioner)             | A simple .NET library for provisioning Kubernetes.                                        | Active         |
-| [✅ .NET Kubernetes Validator](https://github.com/devantler/dotnet-kubernetes-validator)                 | A simple .NET library for running client-side and server-side validations on Kubernetes   | Active         |
-| [🐳 .NET Container Engine Provisioner](https://github.com/devantler/dotnet-container-engine-provisioner) | A simple .NET library for provisioning resources to container engines.                    | Active         |
-| [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)                           | A simple .NET library to genarate files from .sbn templates                               | Active         |
-| [🔓 .NET Key Manager](https://github.com/devantler/dotnet-key-manager)                                   | A simple .NET library to manage asymmetric keys                                           | Active         |
-| [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                                 | A simple .NET library to provide intelligent models for assymetric keys                   | Active         |
-| [▶️ .NET CLI Runner](https://github.com/devantler/dotnet-cli-runner)                                     | A simple .NET library to run CLI commands from .NET code                                  | Active         |
-| [⚗️ .NET Kind CLI](https://github.com/devantler/dotnet-kind-cli)                                         | _A description will be added soon..._                                                     | In development |
-| [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                                           | _A description will be added soon..._                                                     | In development |
-| [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                                         | _A description will be added soon..._                                                     | In development |
-| [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)                           | _A description will be added soon..._                                                     | In development |
-| [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                                         | _A description will be added soon..._                                                     | In development |
-| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                                           | A simple .NET library that embeds and provides an API for the age and age-keygen binaries | Active         |
-| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                            | A simple .NET library that embeds and provides an API for the k3d binary                  | Active         |
-| [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                                | _A description will be added soon..._                                                     | In development |
+| Library Name                                                                                             | Description                                                                               | State  |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------ |
+| [☸️ .NET Kubernetes Generator](https://github.com/devantler/dotnet-kubernetes-generator)                 | A simple .NET library for generating Kubernetes resources.                                | Active |
+| [✅ .NET Kubernetes Validator](https://github.com/devantler/dotnet-kubernetes-validator)                 | A simple .NET library for running client-side and server-side validations on Kubernetes   | Active |
+| [🌐 .NET Kubernetes Provisioner](https://github.com/devantler/dotnet-kubernetes-provisioner)             | A simple .NET library for provisioning Kubernetes clusters and resources.                 | Active |
+| [🐳 .NET Container Engine Provisioner](https://github.com/devantler/dotnet-container-engine-provisioner) | A simple .NET library for provisioning resources to container engines.                    | Active |
+| [🔓 .NET Key Manager](https://github.com/devantler/dotnet-key-manager)                                   | A simple .NET library to manage asymmetric keys                                           | Active |
+| [📄 .NET Template Engine](https://github.com/devantler/dotnet-template-engine)                           | A simple .NET library to genarate files from .sbn templates                               | Active |
+| [🗝️ .NET Keys](https://github.com/devantler/dotnet-keys)                                                 | A simple .NET library to provide intelligent models for assymetric keys                   | Active |
+| [▶️ .NET CLI Runner](https://github.com/devantler/dotnet-cli-runner)                                     | A simple .NET library to run CLI commands from .NET code                                  | Active |
+| [⚗️ .NET Kind CLI](https://github.com/devantler/dotnet-kind-cli)                                         | A simple .NET library that embeds and provides an API for the kind binary                 | Active |
+| [🐶 .NET K9s CLI](https://github.com/devantler/dotnet-k9s-cli)                                           | A simple .NET library that embeds and provides an API for the k9s binary                  | Active |
+| [🔁 .NET Flux CLI](https://github.com/devantler/dotnet-flux-cli)                                         | A simple .NET library that embeds and provides an API for the flux binary                 | Active |
+| [🔎 .NET Kubeconform CLI](https://github.com/devantler/dotnet-kubeconform-cli)                           | A simple .NET library that embeds and provides an API for the kubeconform binary          | Active |
+| [🔐 .NET SOPS CLI](https://github.com/devantler/dotnet-sops-cli)                                         | A simple .NET library that embeds and provides an API for the sops binary                 | Active |
+| [🔑 .NET Age CLI](https://github.com/devantler/dotnet-age-cli)                                           | A simple .NET library that embeds and provides an API for the age and age-keygen binaries | Active |
+| [③ .NET K3d CLI](https://github.com/devantler/dotnet-k3d-cli)                                            | A simple .NET library that embeds and provides an API for the k3d binary                  | Active |
+| [Ⓚ .NET Kustomize CLI](https://github.com/devantler/dotnet-kustomize-cli)                                | A simple .NET library that embeds and provides an API for the kustomize binary            | Active |
 
 ## [Templates 📁](https://devantler.com/templates)
 
