@@ -1,7 +1,7 @@
 # Hi there 👋🏻☸️
 
 <div align="center">
-  <img class="lazy" src="assets/images/profile.png" data-src="assets/images/profile.png" alt="Me summer 2024" width="400">
+  <img class="lazy" src="assets/images/profile.jpg" data-src="assets/images/profile.jpg" alt="Me summer 2024" width="400">
 </div>
 
 ## About Me 📝
