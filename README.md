@@ -70,7 +70,7 @@ As an outro the roadmap for KSail is presented along with an open invitation to 
 
 Years of experience in software development have given me a solid foundation in modern software development practices and technologies. I have worked on a wide range of projects, from developing and maintaining e-commerce platforms to creating and operating cloud-native solutions. I have a strong passion for learning and sharing knowledge, and I'm always looking for new challenges and opportunities to grow as a software engineer. I have a sharp eye for detail and a strong focus on quality and simplicity in everything I do. I love working with people who share my passion for software development and who are not afraid to challenge the status quo.
 
-### Platform Engineer and Open Source Community Facilitator <span style="float:right">November 2024 - Present</span>
+### Platform Engineer and Open Source Community Facilitator <span style="float:right">Nov 2024 - Now</span>
 
 _Energinet, Fredericia - Consultant_
 
@@ -86,7 +86,7 @@ Working as a Consultant at Energinet, I'm part of a Platform team in the Infrast
 - Hosting and facilitating meetups, hackathons, and workshops.
 - Promoting modern software development practices like GitHub Flow, DevOps, cloud-native, and open source practices.
 
-### Software Engineer and Open Source Community Facilitator <span style="float:right">August 2023 - November 2024</span>
+### Software Engineer and Open Source Community Facilitator <span style="float:right">Aug 2023 - Nov 2024</span>
 
 _Energinet, Fredericia - Junior Consultant_
 
@@ -103,7 +103,7 @@ From September 2024 to June 2025 I was lent out to a platform engineering team, 
 - Hosting and facilitating meetups, hackathons, and workshops.
 - Promoting modern software development practices like GitHub Flow, DevOps, cloud-native, and open source practices.
 
-### Teaching Assistant <span style="float:right">September 2022 - August 2023</span>
+### Teaching Assistant <span style="float:right">Sep 2022 - Aug 2023</span>
 
 _University of Southern Denmark, Odense_
 
@@ -113,7 +113,7 @@ Working as a teaching assistant in Big Data at the University of Southern Denmar
 - Teaching students.
 - Helping students with their exercises.
 
-### Student Software Developer <span style="float:right">July 2022 - August 2023</span>
+### Student Software Developer <span style="float:right">July 2022 - Aug 2023</span>
 
 _Umbraco, Odense_
 
@@ -125,7 +125,7 @@ Working as a student software developer at Umbraco, I was part of the Umbraco He
 - Working with CI/CD pipelines in Azure DevOps.
 - Working in a DevOps team with a focus on automation and monitoring.
 
-### Student Software Developer <span style="float:right">November 2021 - July 2022</span>
+### Student Software Developer <span style="float:right">Nov 2021 - July 2022</span>
 
 _FiftyTwo, Kolding_
 
@@ -136,7 +136,7 @@ Working as a student software developer at FiftyTwo, I was part of the developme
 - Working with SQL Server and Stored Procedures.
 - Working with Kabana and Network Monitoring.
 
-### Student Software Developer <span style="float:right">February 2021 - November 2021</span>
+### Student Software Developer <span style="float:right">Feb 2021 - Nov 2021</span>
 
 _Maersk Mc-Kinney Moller Institute, Odense_
 
@@ -150,7 +150,7 @@ Working as a student software developer at the Maersk Mc-Kinney Moller Institute
 - Working closely with researchers and students.
 - Working alone on a project from start to finish.
 
-### Teaching Assistant <span style="float:right">September 2020 - December 2020</span>
+### Teaching Assistant <span style="float:right">Sep 2020 - Dec 2020</span>
 
 _University of Southern Denmark, Odense_
 
@@ -160,7 +160,7 @@ Working as a teaching assistant in Object-Oriented Programming at the University
 - Teaching students.
 - Helping students with their exercises.
 
-### Student Software Developer <span style="float:right">February 2018 - May 2019</span>
+### Student Software Developer <span style="float:right">Feb 2018 - May 2019</span>
 
 _GF Forsikring, Odense_
 
