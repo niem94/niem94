@@ -38,7 +38,7 @@ A simple .NET library for provisioning resources in container engines.
 
 - **Provision Docker resources**
 
-## [🔓 .NET Key Manager](https://github.com/devantler/dotnet-key-manager)
+## [🔓 .NET Secret Manager](https://github.com/devantler/dotnet-secret-manager)
 
 A simple .NET library to manage asymmetric keys.
 
